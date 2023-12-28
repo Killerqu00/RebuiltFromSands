@@ -1,0 +1,13 @@
+name = "Custom Machinery"
+filename = "CustomMachinery-forge-1.19.2-0.9.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f75a943cec12397da010af5825cc280782ca25b0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4979260
+project-id = 457017

@@ -1,0 +1,53 @@
+JEIEvents.hideItems(event => {
+    let remove = [
+        'immersiveengineering:watermill',
+        'immersiveengineering:waterwheel_segment',
+        'immersiveengineering:blueprint',
+        'minecraft:stone_sword',
+        'minecraft:stone_pickaxe',
+        'minecraft:stone_axe',
+        'minecraft:stone_hoe',
+        'minecraft:stone_shovel',
+        'minecraft:golden_sword',
+        'minecraft:golden_pickaxe',
+        'minecraft:golden_axe',
+        'minecraft:golden_hoe',
+        'minecraft:golden_shovel',
+        'minecraft:golden_helmet',
+        'minecraft:golden_chestplate',
+        'minecraft:golden_leggings',
+        'minecraft:golden_boots',
+        'minecraft:golden_carrot',
+        'farmersdelight:golden_knife',
+        'minecraft:wooden_sword',
+        'minecraft:wooden_pickaxe',
+        'minecraft:wooden_axe',
+        'minecraft:wooden_hoe',
+        'minecraft:wooden_shovel',
+        'minecraft:diamond_sword',
+        'minecraft:diamond_pickaxe',
+        'minecraft:diamond_axe',
+        'minecraft:diamond_hoe',
+        'minecraft:diamond_shovel',
+        'minecraft:diamond_helmet',
+        'minecraft:diamond_chestplate',
+        'minecraft:diamond_leggings',
+        'minecraft:diamond_boots',
+        'farmersdelight:diamond_knife',
+        'minecraft:netherite_sword',
+        'minecraft:netherite_pickaxe',
+        'minecraft:netherite_axe',
+        'minecraft:netherite_hoe',
+        'minecraft:netherite_shovel',
+        'minecraft:netherite_helmet',
+        'minecraft:netherite_chestplate',
+        'minecraft:netherite_leggings',
+        'minecraft:netherite_boots',
+        'farmersdelight:netherite_knife',
+        'immersiveengineering:thermoelectric_generator'
+    ]
+
+    for (const e of remove) {
+        event.hide(e)
+    }
+})

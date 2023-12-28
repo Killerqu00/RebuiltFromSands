@@ -1,0 +1,13 @@
+name = "RebuiltFromSands"
+author = "Killerqu00"
+version = "alpha1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9ee19c55efa5754ecb831b3a1812a86e4a7119eb6621b9567059b27b55206a97"
+
+[versions]
+forge = "43.3.0"
+minecraft = "1.19.2"

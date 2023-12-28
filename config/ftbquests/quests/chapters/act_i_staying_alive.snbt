@@ -1,0 +1,432 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "act_i_staying_alive"
+	group: ""
+	icon: "minecraft:apple"
+	id: "58A86CAAF7BF68BA"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"&lMission Goal:&r Find a new planet for humanity"
+				"&lCurrent Planet:&r &4UNKNOWN&r"
+				"&lMission Log:&r Ship has crashed (reason unknown), evacuation protocols initialized"
+				"&lCurrent Objective:&r Survive"
+				"&lNext Objective:&r Gather Intel"
+			]
+			icon: "engineersdecor:sign_caution"
+			id: "16F1B02104D34F7F"
+			shape: "square"
+			tasks: [{
+				id: "34DCCEF3D61EE488"
+				type: "checkmark"
+			}]
+			title: "Status Update"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["16F1B02104D34F7F"]
+			id: "65236DCA7F5B6778"
+			tasks: [{
+				id: "4017CAEB04602F9A"
+				item: "minecraft:composter"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["65236DCA7F5B6778"]
+			id: "1DB5E28FBC182BC2"
+			tasks: [{
+				id: "682748AC4EA630B3"
+				item: "minecraft:hanging_roots"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1DB5E28FBC182BC2"]
+			id: "2CA85CFA01117BAF"
+			tasks: [{
+				id: "3582186B66369F54"
+				item: {
+					Count: 1b
+					id: "kubejs:mesh"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2CA85CFA01117BAF"]
+			id: "65273E55DA60A8AA"
+			tasks: [{
+				id: "4C70ABDBCC245A90"
+				item: "minecraft:crafting_table"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["2CA85CFA01117BAF"]
+			id: "20383CD4F90B6631"
+			tasks: [{
+				id: "1C3505075678BDFB"
+				item: "minecraft:dirt"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["20383CD4F90B6631"]
+			id: "7F32576B9400A202"
+			tasks: [{
+				id: "29E1E686ADA48ABC"
+				item: "minecraft:clay"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"7F32576B9400A202"
+				"65273E55DA60A8AA"
+			]
+			id: "4FD012D912A48286"
+			tasks: [{
+				id: "3CC59364FC957F83"
+				item: "minecraft:furnace"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["7F32576B9400A202"]
+			id: "5F7ACB001949CFD5"
+			tasks: [{
+				id: "16581378A9EE59FB"
+				item: "botanypots:terracotta_botany_pot"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["20383CD4F90B6631"]
+			id: "7CD549A08C29B278"
+			tasks: [{
+				id: "5A213734C9A13AF9"
+				item: "farmersdelight:rich_soil"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["4FD012D912A48286"]
+			id: "27EAA21F597E158A"
+			tasks: [{
+				id: "3CE10DBA08CB760F"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["7CD549A08C29B278"]
+			id: "656671923FD3E86C"
+			tasks: [{
+				id: "6BF3E6DA4493101E"
+				item: "minecraft:grass_block"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["656671923FD3E86C"]
+			id: "5ED1DE4E248540DF"
+			tasks: [{
+				id: "343D0B151BF394C9"
+				item: "immersiveengineering:hemp_fiber"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["656671923FD3E86C"]
+			id: "1EFBD5196CEB64B8"
+			tasks: [{
+				id: "005225F35646B4D4"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["656671923FD3E86C"]
+			id: "537420D6EF813207"
+			tasks: [{
+				id: "576A503C1616E03A"
+				item: "minecraft:pumpkin"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["656671923FD3E86C"]
+			id: "4E6278374C6B3D96"
+			tasks: [{
+				id: "55EFEB3126572822"
+				item: "minecraft:melon"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["656671923FD3E86C"]
+			id: "54B6739E86FFD272"
+			tasks: [{
+				id: "17AD19EA4C17E4A7"
+				item: "minecraft:beetroot"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["656671923FD3E86C"]
+			id: "02947050D7EDD03F"
+			tasks: [{
+				id: "550710B67C17187A"
+				item: "farmersdelight:cabbage"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["656671923FD3E86C"]
+			id: "51FB4863287DCF0A"
+			tasks: [{
+				id: "46C33D6BB61011CA"
+				item: "farmersdelight:tomato"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["4FD012D912A48286"]
+			id: "1DBBC6A052EEEA4E"
+			tasks: [{
+				id: "5E6C815AD2607901"
+				item: "cookingforblockheads:cooking_table"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["1DBBC6A052EEEA4E"]
+			id: "5ED4DEC0304A3A3D"
+			tasks: [{
+				id: "73F49906D8A6E392"
+				item: "cookingforblockheads:counter"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["65273E55DA60A8AA"]
+			id: "3C701FD3EA484857"
+			tasks: [{
+				id: "336F4DDAE36B17AC"
+				item: "farmersdelight:cutting_board"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["27EAA21F597E158A"]
+			id: "3C7B17612AB6B9F9"
+			tasks: [{
+				id: "1E7C450EDC9E15B8"
+				item: "farmersdelight:stove"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["3C7B17612AB6B9F9"]
+			id: "05015E1EE188B4DB"
+			tasks: [{
+				id: "74C0918766B96B29"
+				item: "farmersdelight:cooking_pot"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["05015E1EE188B4DB"]
+			id: "4E715BCF48BA0F16"
+			tasks: [{
+				id: "3B8F0EB807838B1D"
+				item: {
+					Count: 1b
+					id: "cuisinedelight:cuisine_skillet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["3C701FD3EA484857"]
+			id: "0A218283EB1407B7"
+			tasks: [{
+				id: "08927394960A473A"
+				item: "farmersdelight:mixed_salad"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["4E715BCF48BA0F16"]
+			id: "3E77DF880301DFD5"
+			tasks: [{
+				id: "021627BBEEBF0C05"
+				item: "minecraft:beetroot_soup"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["5ED4DEC0304A3A3D"]
+			id: "44174CC230649062"
+			tasks: [{
+				id: "370D08C4B4E73A90"
+				item: "nutritionalbalance:lunchbox"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["27EAA21F597E158A"]
+			id: "7AF08EA68A5A3D44"
+			tasks: [{
+				id: "12FBC6A56F047FA8"
+				item: {
+					Count: 1b
+					id: "pickletweaks:watering_can"
+					tag: {
+						Water: 0b
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["1DB5E28FBC182BC2"]
+			icon: {
+				Count: 1b
+				id: "farmersdelight:flint_knife"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "30F6FB5AD73C7569"
+			tasks: [
+				{
+					id: "16E0397418445BFE"
+					item: {
+						Count: 1b
+						id: "kubejs:flint_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "04F35823C1485C04"
+					item: {
+						Count: 1b
+						id: "kubejs:flint_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1C09B991BC1F8D21"
+					item: {
+						Count: 1b
+						id: "kubejs:flint_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "052F4997DE1CDE05"
+					item: {
+						Count: 1b
+						id: "kubejs:flint_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "150D36D70EED20CD"
+					item: {
+						Count: 1b
+						id: "farmersdelight:flint_knife"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Flint Tools"
+			x: -1.5d
+			y: -3.0d
+		}
+	]
+	title: "Act I: Staying Alive"
+}

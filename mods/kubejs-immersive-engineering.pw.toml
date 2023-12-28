@@ -1,0 +1,13 @@
+name = "KubeJS Immersive Engineering"
+filename = "kubejs-immersive-engineering-1902.2.3-build.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e44cccf2fdb686292545b5785bca16bbe1370f92"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4651042
+project-id = 421770

@@ -1,0 +1,13 @@
+name = "Zombie Friends! 🧟‍♀️ 🧟 🧟‍♂️"
+filename = "Zombie Friends 1.18-1.19-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b677abafd217ef1689fcf766ee19099ec927da50"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4377919
+project-id = 695347

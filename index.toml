@@ -1,0 +1,1112 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/Mekanism/additions-client.toml"
+hash = "7bf81e79c36e1ff5ceea435f5493000f27821b1c72329ea4298955609c6591c8"
+
+[[files]]
+file = "config/Mekanism/additions.toml"
+hash = "d0c47935639c73d9e3353d95c7cb9656521728abc25b636876e93944debedf82"
+
+[[files]]
+file = "config/Mekanism/client.toml"
+hash = "77a48522e66915387b9b9d404c8946375a099b0ac6abe117b355ff79a4491ed1"
+
+[[files]]
+file = "config/Mekanism/common.toml"
+hash = "aded0937dff550c18f0656661333ad9f37990cc5d38e6840497cab3ff7a266fc"
+
+[[files]]
+file = "config/Mekanism/gear.toml"
+hash = "c909aacaac6808de02416c6a202f73aa247f4e20ada6b1af56124adaa41f9a99"
+
+[[files]]
+file = "config/Mekanism/general.toml"
+hash = "48b51582557d4c4ea197fd5a48107aaed9c688a1e48ecd0ed65cfe773e800dd3"
+
+[[files]]
+file = "config/Mekanism/generator-storage.toml"
+hash = "c28e7cc320f69327d5f2affdd2d3cbb85ffee6ba577a75a98618cedd02e564f4"
+
+[[files]]
+file = "config/Mekanism/generators-gear.toml"
+hash = "9dfdefd08e85a5089eb6ba33478913e1c96d984e18a5edcf9b5310616fee18c9"
+
+[[files]]
+file = "config/Mekanism/generators.toml"
+hash = "dc3b90dacbb87a5ac278007bf806e63100e47f419492a5a390a55471f6724c08"
+
+[[files]]
+file = "config/Mekanism/machine-storage.toml"
+hash = "5762af5926b2312aaff9bda0cbbb44748d6ad2ed1b12a5d19af28407bc604dc6"
+
+[[files]]
+file = "config/Mekanism/machine-usage.toml"
+hash = "331ae2bd0031e3d8c65f3572f17bf81af186363c4a4a630e4184f6d427d2f136"
+
+[[files]]
+file = "config/Mekanism/tiers.toml"
+hash = "b5fb9d3325f776146cd6d891be2ff373a406494fe51e4cf2551b360241210d26"
+
+[[files]]
+file = "config/Mekanism/world.toml"
+hash = "54971d6ffd03a2bd66d146d77f421e07133752f7b9c2f66a0a8196c7a85bac50"
+
+[[files]]
+file = "config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
+file = "config/ad_astra.toml"
+hash = "8627621ddf90bb9747ff3ef6145a90b826146308a15839dc852d6041f7f3d472"
+
+[[files]]
+file = "config/ad_astra_giselle_addon.toml"
+hash = "c2c1571c4ca5f091c5d1c5b6cb1e4aae292c3a52895373c4ccec4fd2c197f146"
+
+[[files]]
+file = "config/alchemistry-common.toml"
+hash = "a3a71c42e2af41696048374996368f8d0f3636cbe0d6311774f9b6bdcd314f93"
+
+[[files]]
+file = "config/appleskin-client.toml"
+hash = "28c6ad7570268b02ec6f73fb7c39c49ecf90f0697d0db9447899e8aa96285200"
+
+[[files]]
+file = "config/attributefix.json"
+hash = "25d0953b35979f129695a5d421808e6c9fc84162fb676f009331714879321e8c"
+
+[[files]]
+file = "config/chemlib-common.toml"
+hash = "ea5d802ef100270cdba15042e9d24cc85384b404f523f0c4137923212e037a0f"
+
+[[files]]
+file = "config/cookingforblockheads-common.toml"
+hash = "dadfe55734b0cc802499f3c76ddb7fadfcc30d37c4525eb840b132ff93da98ad"
+
+[[files]]
+file = "config/cucumber-client.toml"
+hash = "d920a1787b62c4293c13f70e768fac4f5bf44cd8f7e51cbad251693bac8108bf"
+
+[[files]]
+file = "config/cucumber-common.toml"
+hash = "c611d28e90bc2321fa00f7dbcb86344f58a25c1c6401c7c12ca7d054d650d814"
+
+[[files]]
+file = "config/cucumber-tags.json"
+hash = "ab1a142b08e16556f6c81f073a4fe03623f183ab3b5a463872e395c253fcde5e"
+
+[[files]]
+file = "config/cuisinedelight-client.toml"
+hash = "18af6c375cd6a044bc766db8696de70cee793e2fa01898ef00ea23540fe3ea74"
+
+[[files]]
+file = "config/cuisinedelight-common.toml"
+hash = "38f00331dfb0c8dee2fc041ecf0d7d4ffbbe68eda07a95f61063f0f5d9c8e4ed"
+
+[[files]]
+file = "config/custommachinery.toml"
+hash = "eecf5c21104222934b84b50c9d1b076d267776d65b81e85f46da15ba4f3b1f28"
+
+[[files]]
+file = "config/dynamic_lights_reforged.toml"
+hash = "d51cfa73ad1f160a4bf14a7fca90ab6f8dadb8dee52e240d3190193b9e954bc4"
+
+[[files]]
+file = "config/engineersdecor-common.toml"
+hash = "b6dc6c4d205efd757b004c5d6e98a75121423aa5d8ed3b1480c19960c5ffd987"
+
+[[files]]
+file = "config/esm-config.toml"
+hash = "ad42b38d5f62e4624c23097ed2f60afbf3203dfb6feb10ccef050fb958062d28"
+
+[[files]]
+file = "config/extendedcrafting-client.toml"
+hash = "1e4729a8081c03850dd1caeab945ec4174d1fdf656e0ea7fd2095fb67f1bd1e7"
+
+[[files]]
+file = "config/extendedcrafting-common.toml"
+hash = "3ce30c76940ed147b45014eb861c156c6fb8bf5f4279e7787231965e82f1ad21"
+
+[[files]]
+file = "config/extendedcrafting/singularities/aluminum.json"
+hash = "c312c7764e03794d4e10dc6f5037849e14b6e9951b6ef9db84cee4d46cf05b5d"
+
+[[files]]
+file = "config/extendedcrafting/singularities/bronze.json"
+hash = "63ec642af0517db1c2bb747648551fa244978dfffd7cdb5d4ddd6445618453a3"
+
+[[files]]
+file = "config/extendedcrafting/singularities/coal.json"
+hash = "0ae1f7340d548abe2c6418b4e4e22836d0d086bf9accb63fdc7826e948146a68"
+
+[[files]]
+file = "config/extendedcrafting/singularities/copper.json"
+hash = "b8bedddbab362903586bdf8400c557b377082f763d31c83445d0a32e237b98f9"
+
+[[files]]
+file = "config/extendedcrafting/singularities/diamond.json"
+hash = "d92bfc4ab34b0b61684df3746a34d26bab6375116b3d3cb6195d096cc906b06b"
+
+[[files]]
+file = "config/extendedcrafting/singularities/electrum.json"
+hash = "2b0c25383d16b9a80de63b1ba5d3047955311436afbce03fd5b6e0a4474dd203"
+
+[[files]]
+file = "config/extendedcrafting/singularities/emerald.json"
+hash = "446cfc0973dda02c495835bb45d406a801103144903edfcc641baca393dcee48"
+
+[[files]]
+file = "config/extendedcrafting/singularities/glowstone.json"
+hash = "631a85daa1c1b290eea94e8f9fa765a3454fc20a7b9b65d657cf49828acb433c"
+
+[[files]]
+file = "config/extendedcrafting/singularities/gold.json"
+hash = "19006ad7a8976d18443b82df40361950d0f66fb08b7622a04e924c138e2827b7"
+
+[[files]]
+file = "config/extendedcrafting/singularities/invar.json"
+hash = "2241a7d139645efb7a94d9414d7aa9824379648ad3584a0ce654585a0505f422"
+
+[[files]]
+file = "config/extendedcrafting/singularities/iron.json"
+hash = "493f7f84e396a0ab98a75ab79878d406466a17d6604b1cc3af72e7d585f9cef4"
+
+[[files]]
+file = "config/extendedcrafting/singularities/lapis_lazuli.json"
+hash = "79d987f64ea300c7e7397233023ee4e62d2469df2ae9e29eee91aadfe795baba"
+
+[[files]]
+file = "config/extendedcrafting/singularities/lead.json"
+hash = "4987337efda2bc3f9144186f1c8b12a547318f8742c604fc39988a8ce4670741"
+
+[[files]]
+file = "config/extendedcrafting/singularities/nickel.json"
+hash = "fc345edd5286f0aae2781ac8af513dbbdeace690206c443b07a2f01afd32b3a6"
+
+[[files]]
+file = "config/extendedcrafting/singularities/platinum.json"
+hash = "7448f1f464aea1ef4c54727b0be4733dc126e12ad732453b50d6215a1eaf241a"
+
+[[files]]
+file = "config/extendedcrafting/singularities/redstone.json"
+hash = "fc2e360ad8ba4905ad4eb87541e8a7feeb19d2a67310f66a14cb27528a9b805f"
+
+[[files]]
+file = "config/extendedcrafting/singularities/silver.json"
+hash = "6fc9834eec29f9c905d93475168f8642f64ca66c325f8b2a2551cbcb5b3b3cc4"
+
+[[files]]
+file = "config/extendedcrafting/singularities/steel.json"
+hash = "9e0b586f2d9e247469779b137ab3d36c777e2ed8138d725cff53158f84044fc4"
+
+[[files]]
+file = "config/extendedcrafting/singularities/tin.json"
+hash = "d1d365e149244bbb1a73f902e53151e8831ef8b85f6dc21a09cb89c588f83982"
+
+[[files]]
+file = "config/farmersdelight-client.toml"
+hash = "13a11f20b305f6f975ebc35802d87c7bf22a04dc79464e41089823603b76a227"
+
+[[files]]
+file = "config/farmersdelight-common.toml"
+hash = "6c5ef17d96281e06120161c02bc3365ed55e90151cb99f8ebde9c7042e340bbb"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "f19906e5d155709cd2cbb4ebbc2edf72536ef946f550f9cbeac321bcb772d189"
+
+[[files]]
+file = "config/finitewater.json"
+hash = "30d96a114b43bb9012b0e8cd3dced13f76dd3cd712123c01853e1876010aca4a"
+
+[[files]]
+file = "config/fml.toml"
+hash = "f0f80072142ed0d6d59a98d231ec9cc7363defd8d02bfa217108b4b90835513e"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "5db4cf560d827f6a88d0f51ef13896cd33db9718215b079df9129e41ba8f4db0"
+
+[[files]]
+file = "config/forge-common.toml"
+hash = "8a4a66052998138456f09c8871cbd4c29c864932415262ed5ee837e743597a7e"
+
+[[files]]
+file = "config/forge-resource-caching.toml"
+hash = "ed2512a6396ea7446a5e4bb7d26b18021c1ae356f3cb13caba4043ad77a31e9d"
+
+[[files]]
+file = "config/ftbbackups2.json"
+hash = "7e88163a0edc7f75f7b0d79bc700f262cb80d6bf522f1dc150369069e54805da"
+
+[[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/act_i_staying_alive.snbt"
+hash = "0854bfc987aef278d6b117114371d2f32dc0714f0c00730f9dfa92deb2c4500e"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/act_ii_out_of_scraps.snbt"
+hash = "9aed95dc4e4b67576e16144040ac20b33390ab3ef22b46e50713a8463c8d605c"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "c95b3044291d847d066f894ad9bda82f0c0dc64773c4061bcc2968c35bc7f045"
+
+[[files]]
+file = "config/functionalstorage/functionalstorage-client.toml"
+hash = "f9bdd4e54a0e742d3975d866d8888c5b2c4f6e7a6c47c3fe36d2937cf5d4117f"
+
+[[files]]
+file = "config/functionalstorage/functionalstorage-common.toml"
+hash = "0af214a26509378cc1a156bbce418f1ce2c83298fb05d6508b178aa8e9b8330a"
+
+[[files]]
+file = "config/globalgamerules-common.toml"
+hash = "7df1a0060c9efe1cf76081f1b0e3a73aec571c01f09a611273c93cd5ed3e5eb3"
+
+[[files]]
+file = "config/immersiveengineering-client.toml"
+hash = "5885f6699cda8460fde62aa7f84b1f5fb636a3d7e8e489904de7bafa3d3b4d12"
+
+[[files]]
+file = "config/immersiveengineering-common.toml"
+hash = "68550b1b9f85bb8b055e602c6178a9a7ff8ec90d226c739f8d8c5ca66e089e47"
+
+[[files]]
+file = "config/immersivepetroleum-client.toml"
+hash = "f7c3d055044e78f8f862edc59c96c10fc74547cbd774bdafbfae4377c20ffaca"
+
+[[files]]
+file = "config/incontrol/experience.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/loot.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/phases.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/spawn.json"
+hash = "dc8dc2b8106d3c2736b40dbaf7be9d14b835214ab2b0e1af0d03f4b46d2b64d4"
+
+[[files]]
+file = "config/incontrol/spawner.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/special.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/summonaid.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/jade/hide-blocks-1902.json"
+hash = "6f6658b4a600c154e8bceb74fbfd887c9cb159ae389b1c87d29bd90f21ce5b0a"
+
+[[files]]
+file = "config/jade/hide-entities-1902.json"
+hash = "82a022760c1ca91894bc3b1184664cf65e16ba39dc17a4aa2fc482c4fe4df581"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "8a59a7151051d7b45f134fd4b1a9f10bc7957cd90c09cd126b4f70a83e5cc994"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "68b51254f536a419faf32b5831179b3fb5f3282ff68cb65278b1359ddfc5a0e0"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "1c15a80818447927a161b3e9d8b8fec73ee9b373a7b0ec981f902827d6aec6e7"
+
+[[files]]
+file = "config/jei/blacklist.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/jei/ingredient-list-mod-sort-order.ini"
+hash = "8f8523e155306221f4e11a1c359553479247e5034b452e8ef3153b4d5e5f57e4"
+
+[[files]]
+file = "config/jei/ingredient-list-type-sort-order.ini"
+hash = "58e75b423b25ab1786326d34d4ee8379fc96488884b2f6b63b4eb747e40f78ff"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "0677a3f26da63a77446d4dba2e944aea84f422029a8567f397f3f710507d714b"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "bca5b02f5689992eedefaea160cecac8fd69ee8ae7cee403f5294afbe539e8ce"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "8f986a34dbe2053ece09b3f6d7635e38b17ea5c49befb91e87d2c2e1a44c8b1a"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "8f2761840207e6e133df740cd06303e52c711f418942300073cf58827a06b989"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "ea888232330dbd1a59970389a40d4d4fa43fbd9ab081813958e053877ef7249a"
+
+[[files]]
+file = "config/jei/world/local/devworld/bookmarks.ini"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/jei_mekanism_multiblocks-client.toml"
+hash = "b73ce69966d12d2b1618dc98934117b0ef37542f73e7f551d2b3db562a7d467f"
+
+[[files]]
+file = "config/jeresources-common.toml"
+hash = "13a4d5e1d1ac4207cbebef810696525975ec4f0c2470f6b858cbd9f62a6cd3ec"
+
+[[files]]
+file = "config/jeresources.toml"
+hash = "dba9b465be70853db2eaa9ab61747b244c2dd1127668dd72121251150a4833a1"
+
+[[files]]
+file = "config/justenoughbreeding-client.toml"
+hash = "66911c1b9267921ae2203ee57bda2cdca092b80e64874e86d5abbf882d83bc0a"
+
+[[files]]
+file = "config/l2library-client.toml"
+hash = "949e77eba5f223f5d00b99d842be1162d98ca32c0f45abc594755c1850a7f130"
+
+[[files]]
+file = "config/leavesbegone-server.toml"
+hash = "5461ea48b86cd51ac9a218ac6a7ecc32cf4c4fb0acc70c68de4329766027ca15"
+
+[[files]]
+file = "config/mobsunscreen-common.toml"
+hash = "80ab3ff1057432cde7075d29ee51faef7f0d1e1aa8217fdb1904df0396700a45"
+
+[[files]]
+file = "config/modernfix-common.toml"
+hash = "d40a0510a5eaf56e3c48e881348d7d826c5a1f61aa29b69cf0fc33dd96d6fdcd"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "c06838d973f090f85ff07040fbbe5ae58fcb71a2dcb66c20357a41fd9f7adeb5"
+
+[[files]]
+file = "config/nutritionalbalance-client.toml"
+hash = "57fe2333964dd11ea7e801fe2da128bb0438019f0cfb701f0cd7f1245abce6c1"
+
+[[files]]
+file = "config/oculus.properties"
+hash = "ec149216326390ced2dc9e010bc752e62e2558beb6a1bfc2a9a0661b2250d5f8"
+
+[[files]]
+file = "config/patchouli-client.toml"
+hash = "3b6236845f6a5ff8804487b63b0d74305b91316dc9a008362838607b0be3bd8e"
+
+[[files]]
+file = "config/pickletweaks-client.toml"
+hash = "8bb0e7ced3e74bf42783ead6430aa5b2c28f89599cff292f9b4a905c8b5abbe3"
+
+[[files]]
+file = "config/pickletweaks-common.toml"
+hash = "736afe1fcb59a36675757aba611705d16ff3a68b8f92aac05818f57dfb8fdead"
+
+[[files]]
+file = "config/placebo.cfg"
+hash = "b8a91b3a41d1876b387ad5aaa1889fc209ce62b086d6c856cc059b0c0646e75b"
+
+[[files]]
+file = "config/rebornstorage-common.toml"
+hash = "cfbc8750c59e26ec0dfc26ff73b88b828733f6a5a2187a3422627a47a459a94a"
+
+[[files]]
+file = "config/refinedstorage-client.toml"
+hash = "fd1f877e3c69df8662b8ffa2bd922c80da850ad1ae033591c36480c72b2a9f33"
+
+[[files]]
+file = "config/resourceful-config-web.json"
+hash = "52f443a83932f0685fa466b33793aa46e04cc6a227a6262a43cbc925c825b462"
+
+[[files]]
+file = "config/rubidium-mixins.properties"
+hash = "66bbef3dd895941e28db52d85ef5e8a1ecda6dc26377a47ff6dc623ece2f73fa"
+
+[[files]]
+file = "config/rubidium-options.json"
+hash = "eb383fb8f264c499efcc885d04e99ed58b051f9e36a8c689e623c3b0f5b28214"
+
+[[files]]
+file = "config/rubidium_extras.toml"
+hash = "42b6235759aee9e3a7418a14ef959c102e49d2202c64d7953b37d196312a9f12"
+
+[[files]]
+file = "config/sebastrnlib-client.toml"
+hash = "6045f2b807be45907649e1e063a7056ca8169673d87de542052921f1f69b6e8f"
+
+[[files]]
+file = "config/sidebar_buttons.json"
+hash = "683e48eb46a4b6bbce973a2b5aec2fa2fa6eb922beeead44a7e8d718936513f4"
+
+[[files]]
+file = "config/spark/config.json"
+hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
+
+[[files]]
+file = "config/spark/tmp/about.txt"
+hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
+
+[[files]]
+file = "config/titanium/titanium-tags.toml"
+hash = "4d28fd2a1b94291b168b3a1bc295869205ba1008b812452952ee18d57b2ec5d3"
+
+[[files]]
+file = "config/titanium/titanium.toml"
+hash = "cc5ac1d08117b2d79287b4089b941e7b157836446e6f82cc30560d8f6fe927bf"
+
+[[files]]
+file = "config/toastcontrol-common.toml"
+hash = "509058ff43f6aa56f9e1e8a1445f16393c74e9c315024c42fc03a031d1bd10ea"
+
+[[files]]
+file = "config/visual_workbench.json"
+hash = "fda5ed7c50fc65cc2047bca6649a6ffd59ddd64fcec5d6156ac48096ef159451"
+
+[[files]]
+file = "config/visualworkbench-client.toml"
+hash = "02315b0a39fecbc11a94c15d32c2ae258dad54eee0c37c9c8b990bdd1c64b1ba"
+
+[[files]]
+file = "defaultconfigs/bucketlib-server.toml"
+hash = "a122adfe34b31bcbee34edf54568f13ac9d8923f629a1e29132d27a8207de6b6"
+
+[[files]]
+file = "defaultconfigs/ceramicshears-server.toml"
+hash = "f6698620604d030a5ca99cc833926c069b7779d19be6f9b1147443293cefb7d9"
+
+[[files]]
+file = "defaultconfigs/unlitcampfire-server.toml"
+hash = "c01c649dc33b1aaf463479a2ab8adc5df8b406a14cadeb5a474c6a017b88efae"
+
+[[files]]
+file = "defaultconfigs/woodenbucket-server.toml"
+hash = "8402d417bb652f5ab2e7e3ebd3e4a9675e200fca5d83c2d78036717a8f87fbf4"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/custommachinery/models/machine/sand_drill.json"
+hash = "30328a7ff215471e6fdd8e5dc3566e4b7a2e1e78afd9152e3db403b4e8523e0b"
+
+[[files]]
+file = "kubejs/assets/custommachinery/textures/sand_drill_bottom.png"
+hash = "e9f7252344d747c77ff2e0446f4abc966aa4f3ea613fad9886b04905dc59148c"
+
+[[files]]
+file = "kubejs/assets/custommachinery/textures/sand_drill_panel.png"
+hash = "ae65e5d05f6f8544ada924757b66a19f7da276f5946226aee2542a7cf751a850"
+
+[[files]]
+file = "kubejs/assets/custommachinery/textures/sand_drill_side.png"
+hash = "1bbefaeb64f45629a6689319a17aa9c6d6b4e76c315759e750845014f2a8ffd7"
+
+[[files]]
+file = "kubejs/assets/ftbquests/lang/en_us.json"
+hash = "880bb375b8f8ce76a71e85e9456951df46c66060c6cf03ceade7c3722ce948fc"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/item/book.png"
+hash = "aecf8d0784e6fa7e8fce3ddcacd02b4763f091e9a6e001fa9c121c77c0b8cb77"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/oil_sand.png"
+hash = "776a0018dae77d8ca33b697c7ce7da0561149e6b91b439ccd3ad1d6e4d0b3342"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/broken_circuit.png"
+hash = "8535a1c15bde71dd1e9e3f03c29450d96e29c2668b62b0f232044d7efb5ac80a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/flint_axe.png"
+hash = "d45c5210a39f2561950582f26fd1bc63483b45fd5eae7bfaa24814751cc2e7e9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/flint_hoe.png"
+hash = "b390b204caeeed59168d0cf0d87b7a8e3c7e8300fb8c6ff26bc68f366fee5ff3"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/flint_pickaxe.png"
+hash = "f0eab07553701e821c3d3f90ead475668afd9c62995970d8c26570005f302043"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/flint_shovel.png"
+hash = "ec4e550b52f4aa0b35a7d3cbc1c1d1d8e5e6fd6dc5163a59d6df5b43aef9206a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/flint_sword.png"
+hash = "b58560611b5d02f6ff30b28daa1319afbeba8785ab74549da993fd08b9b2906a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/iron_mesh.png"
+hash = "033d9167a5c4748a0c1a05ca9dde6ef61084c04350451e1ad9a19aaea84d4ce7"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/mesh.png"
+hash = "8e081876b3b2df19560f53e4d9f51e54a8dcee5b5d4a298fd63a2a6792661317"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/pebble.png"
+hash = "c0f27389c3edbd36b37aa7e84c8678f5098516d3f3cfa709ec29604d92f23462"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/scrap.png"
+hash = "b9748a91009a38878653653033a6658c98f0040caefb842a6801c43d040f4663"
+
+[[files]]
+file = "kubejs/client_scripts/remove.js"
+hash = "df1f6a5726ceef4152a255b0aa6df3d0dbbcbc1c72f5b1a9cf82ff503782d01e"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "c5481416ed50ebf61afb32eecf84a20e8f8f9b5e8fc59197f67237a93dffa4e3"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "ef8e80216dd0f667f3cc1c7f8cf172b5305cbe13a9bee74679da784259a6c9c3"
+
+[[files]]
+file = "kubejs/data/custommachines/machines/sand_drill.json"
+hash = "d71e00382ea982233cbea38f92381a4a3636b2e28cb4fd7cccdecfdb555f82c8"
+
+[[files]]
+file = "kubejs/server_scripts/item/remove.js"
+hash = "a6925b8b5bdcf5ed825e48c84494d7df6471ba6729c0045dda69a7ef52874e44"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/ad_astra.js"
+hash = "72671ea9d3ebcef46036e7c729f6dd63ca993488c840bc6b9e661c3b949abe13"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/cooking_for_blockheads.js"
+hash = "21f817066ea1bfe1a8637dfbd021aab409bf60e20b8ffe6833931abf9a6613ab"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/custom_machinery.js"
+hash = "15d2db4dd630d9c71c1b50819b73e89f5859fa53272d6a7253ecd6e9802ee24d"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/extended_crafting.js"
+hash = "86c0c261a9159ecc96a71b4cd170bb1ba72910aacdbc89daf97038bf675c114d"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/farmers_delight.js"
+hash = "b4b17498fe79010b9d1146193066b8d5a23137c5def00aac354362f69eceb99b"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/immersive_engineering.js"
+hash = "a96a8858060733336d02aa417135ae558fb8bb138a2ffb23d23e7bb271c808bb"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/kubejs.js"
+hash = "fb1dd390381a1ec767e9cb2ad5a1b829284a76851ff90ac6b0b9c2f0f9860a8c"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/loottables.js"
+hash = "af2ac592be957be4dc9b001e6c2de5190f2e39292a8803993b3e8b2104733ba5"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/mekanism.js"
+hash = "227510380ffdb6c575260d687388cc5ac6f341c8103ff976f23d8b982d2ac021"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/scrap.js"
+hash = "c3286422a734d5fe0d6359c87f1a7373d2d64f48894a77292a99df77af2c8687"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/tools.js"
+hash = "b640bfabe836e89825e275fe3f11e14d5417715471971e969f72bf27e69cffcd"
+
+[[files]]
+file = "kubejs/server_scripts/tags/tags.js"
+hash = "7666df2a0a934ae9c43987802123349666dfe3ac2c02a58d53e3bbdce2725467"
+
+[[files]]
+file = "kubejs/startup_scripts/block_registry.js"
+hash = "3cea1b50b2e7ee50fa4c18781ceae0a30e996899ea6cea93c8f73bb410c11c54"
+
+[[files]]
+file = "kubejs/startup_scripts/item_registry.js"
+hash = "10ef40d5f932f2f22a41b3e10770bfbec7183653dda1d2443bc1455699d4198a"
+
+[[files]]
+file = "kubejs/startup_scripts/tool_tiers.js"
+hash = "922b704d230dfac56e25c3402120e8a8d6f3eea4cc4bff73f66a1a2a947f0d7c"
+
+[[files]]
+file = "mods/ad-astra-giselle-addon.pw.toml"
+hash = "d0d2490f39cb7ecfc57e0f6284dbeb5ea90d6798503eb6d0360f39a353d1f7f2"
+metafile = true
+
+[[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "e400fdf1973bf6db16c58704683d2fb3b9bb8c842bec2b231b3ba6b457f55fef"
+metafile = true
+
+[[files]]
+file = "mods/alchemistry.pw.toml"
+hash = "9b4d1aa4244b945946f63d8306d66f2b25f13a424dffb28abb1394f2058ff5f0"
+metafile = true
+
+[[files]]
+file = "mods/alchemylib.pw.toml"
+hash = "1eaf53a2c280e1ca07ac34dbf07529a02d7aa8d468b9415da2d8fd1f929f2f1d"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "8c8f8222d0a2c3e1f673b137637b17bd87535b0aad111d79e242f18af48d0169"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.pw.toml"
+hash = "a5823eed363dcbf221b6d0e919b111f0a5676338967a2a599c7cb948ca24223d"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "7b33ce740230efe79e8214a5204694e13b5af7d61e6f40bbffa097a637fd2789"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "3094a52897889217e37bf772fa43727fc4a7f81d0dc9a5e25be933630192bcbb"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "f2e62b07a3ded3eb7d769a1b83c46ff4531a93e2cd3ef3dbd9bc4a43e9cf7b5e"
+metafile = true
+
+[[files]]
+file = "mods/botany-trees.pw.toml"
+hash = "efb98cb6de6cfdbd7cb6f1f2eea21be8b3d8b4febb4a54236e211e5e32360c5f"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+hash = "99192cbb2aa5019f9064cfbe02c069a74b12b060f40a927c1654b2a7680ed4c1"
+metafile = true
+
+[[files]]
+file = "mods/bucketlib.pw.toml"
+hash = "437210c6bd27a3804bb260c1035e02f3dd77912e96f0352aa5a61c4db2aab691"
+metafile = true
+
+[[files]]
+file = "mods/ceramic-shears.pw.toml"
+hash = "7e51648f22d970bd8374d4fd0810dcd42a1de6271c36f465dc1690996050fa8a"
+metafile = true
+
+[[files]]
+file = "mods/chemlib.pw.toml"
+hash = "ee2a961afd934a474fcadededbb15564d244a4d9a1d8a902b9b2c78889177da8"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "620351b6440c5a97a7ea574f4bba4f1f83b84ce2f908fe31a116406e35fa6c57"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "5880c81df1af395ec3762eff4e98c78f7b75e62db67e1d191a1772d79aabc073"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "a94bec93c6e2f350d4bfd94d6f557fca51ef4358aa4a714e87816243537a6623"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "e8d588cbc6f51eef31be3cdf393a202f89dca819387ce464b24c16c8e7045081"
+metafile = true
+
+[[files]]
+file = "mods/cucumber.pw.toml"
+hash = "b36ea5793e2620a309e996527dc3373dda38eaca7646130a67e63eba370e9715"
+metafile = true
+
+[[files]]
+file = "mods/cuisine-delight.pw.toml"
+hash = "8dea370cc04bccaeb8a94655bd450e87baf0edb75d0c14487303ef0b60632e79"
+metafile = true
+
+[[files]]
+file = "mods/custom-machinery.pw.toml"
+hash = "b4995d8ca7e87b5966a39f470f288512add61d2e7873ddbda5a3d293e92b3ced"
+metafile = true
+
+[[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "40387085c326f5b9feb132c33443654ada0611638655dc46a823f28a9c66cacd"
+metafile = true
+
+[[files]]
+file = "mods/engineers-decor.pw.toml"
+hash = "86078f7819e53162c8624dc356663198d98c2829b689b4ae39dc52217824a027"
+metafile = true
+
+[[files]]
+file = "mods/engineers-delight.pw.toml"
+hash = "6c72a64fd2f65f4a272202b04f475a4a66ffb5758f7ff42011a05fb213924b9a"
+metafile = true
+
+[[files]]
+file = "mods/extended-crafting.pw.toml"
+hash = "a2755f70dc5a411a1415ace08d7e30be4a10c30abbfd536ce88bab874155a49a"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "7178ff9343de304a0b6a46bb26469b82ae90051f17ea4e5e547bbc86cbf7982f"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "0d6d8d7beaca1ae779f2e734db30da2595b98587f0714a6b15721664acf8f946"
+metafile = true
+
+[[files]]
+file = "mods/ftb-backups-2.pw.toml"
+hash = "2d8088833d2a82932a861946ed9cbcf25ebd7e76a11354f7191c4f29c4468ea8"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "879813604dd833f793d6d362c6b8a13ce35bf41da13d921b1e4e6c67813ceace"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "b6d5fc226a245a4bbd9fe46783550bfd8dbf4845a254a528b57e269252c98e98"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-optimizer.pw.toml"
+hash = "56fbb792319c522658cc98ebde2eb525c836e83b6a8ee79690cebef806d5b544"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "c0405f2f156703f6c5a181c18e96dfdbad8760c04ff3be8c088853c7b14572df"
+metafile = true
+
+[[files]]
+file = "mods/functional-storage.pw.toml"
+hash = "4ea737f4f1484a0289ddc352d1644a39c5bc7f078ff630c0815933ed39058f2f"
+metafile = true
+
+[[files]]
+file = "mods/global-gamerules.pw.toml"
+hash = "4058fe8a40439602625818c9a6b161f77b89ad5fc7e23c257f12bee081a51e07"
+metafile = true
+
+[[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "61b17065b73cdefcbdc21a3101b9bbff8896df219ae7ad12027c700728c6a2a9"
+metafile = true
+
+[[files]]
+file = "mods/immersive-petroleum.pw.toml"
+hash = "5f2642d853dbb5149de2806278507aeb172aaef3a95140c7e4660c74879398c4"
+metafile = true
+
+[[files]]
+file = "mods/immersiveposts.pw.toml"
+hash = "4e503303c49e2b16f21c0f0d87a5d22f2830533ae0a50e92353db13b74d59d3a"
+metafile = true
+
+[[files]]
+file = "mods/in-control.pw.toml"
+hash = "77d7b5fcd55726ae0f52334c96ec7b118d2412e8fe4b156b5d4f7a7479c5aa05"
+metafile = true
+
+[[files]]
+file = "mods/item-filters.pw.toml"
+hash = "e00e666fc6f0726fcca0f74f9252ba4b1022326ee65433b5aaa08bcd14f4390b"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "7d4ed176565a8ba1d45289734e5aef2343c726c307cf06022ac1b21ebe5a3e2d"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "34beff832b98f209ac50078a6901688c2f1318739c3ebb242ee31d00e2409d3a"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-immersive-multiblocks.pw.toml"
+hash = "56904744466d783e1f30b2c48532f16928e01df110e1c801397d544840abba73"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-mekanism-multiblocks.pw.toml"
+hash = "1b2102bcd5ab1851cfe77838f985138f07a3c8c9bb25166245de7f2f86cd6062"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "224dc68333b17b52fbb9e2b69bf67c1b919fcac1125d9bbeae8c8c6613766bfa"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "eeff6b3b7e6e314fab9e05789e022194b8aea58c1428294f68e51d9295e8a85d"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-additions.pw.toml"
+hash = "8c98b9def3264ec85f40ae231397a26f744290e3fa8c39ddbd350c1efb0056e8"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-botany-pots.pw.toml"
+hash = "5aa46e87c60905d31a70f12304d109076745bff038e8374a0f9b47b191efec43"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-delight.pw.toml"
+hash = "3d2c45d3c418ed8d8e0b68e20e55deeb403b48e675254daf383b8ff3228d91fa"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-immersive-engineering.pw.toml"
+hash = "135c8f7285f1ef5d34066174d1eacbbc668096cef1dacecb3a54e8894bbf2830"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-mekanism.pw.toml"
+hash = "802e915f360b667a4d79d9c333115d88bc83186fe6501ab819c5024836c5e32d"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "e34c1c9566341c0d9be8cf07dda339ca1086bdd7fe2fa3f66ad281695510b78a"
+metafile = true
+
+[[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "4197e21b90ffc991b42fb07a8e2c55824ba30f66185688a1e63ddbbecd10937e"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "28dd3e22a7af0ee500b179658497bdd3744c359c62730cbfa81a12ed953d132e"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "8e76039d3e0c46b46765ca3bdcfda44e944a27890c69ece525a05b89a70eea19"
+metafile = true
+
+[[files]]
+file = "mods/magnesium-extras.pw.toml"
+hash = "221e263833f86918f6037b416b332677f76a068f58f4d859a6102eaa966c2582"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-abridged.pw.toml"
+hash = "ca1144deaefa3fea3078266a4cb8939453a78ec537b0612941f72aa5e4ffaa7d"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-additions.pw.toml"
+hash = "4a3bba5ee25abee71e11f41208f0ae7f09d48dbd43099b52ef1750532d0247fe"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "0a6a0129d354bbf733d4adb7efd39c6646f790827d76ae3a2e25cc855bdecd4d"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "36b3da73d8ce3dfaa5c9a5dae7db10df3ee25f0d32cff6e1cde5407c5e6f271f"
+metafile = true
+
+[[files]]
+file = "mods/mob-sunscreen.pw.toml"
+hash = "aa07b6e085884d86f20561649ce6b37f0b7dfbdc6bc985e41055bd5db8f2db85"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "4be4a0d519c92f7e50741dba8f9ca8d9d44ae9d197bb6d489c5b34effb2233a3"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
+metafile = true
+
+[[files]]
+file = "mods/nightmareesm.pw.toml"
+hash = "617e7cfd8edc5ef1c11417e725361574c3e02f54029137656bb9615b5ad299c4"
+metafile = true
+
+[[files]]
+file = "mods/no-more-inifinite-water.pw.toml"
+hash = "d8278016c28dbcba20d28436cd827c89643f00a06a2b952f5ae114dad8368196"
+metafile = true
+
+[[files]]
+file = "mods/nutritional-balance.pw.toml"
+hash = "5dd87cb57e4b0372d790dfad45cc3a6e94997e9b48007570ee8c34226d1c009c"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "ad5ea7db099e46fb75851c3ec91393256006c78e55eb4615ca7c764f1668e2e8"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "e0cbe5dbdbece52f9471e318cabec09569b95c35ed72e568b015e2d9c5d3c9dc"
+metafile = true
+
+[[files]]
+file = "mods/pickle-tweaks.pw.toml"
+hash = "cd979a0f381cd086fa9246e13a049f8fa4540fc0eac5211309856b0dc29f718c"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "45e43a9de14a5e70bc6cede52536235ffeacc5057f1744c1e0f80d1bb3f0fa0a"
+metafile = true
+
+[[files]]
+file = "mods/polylib.pw.toml"
+hash = "8563048e3a697e85591b18442d604a3e6f6460d8ca4244361cdc0c54a8e3dd16"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "4792b5508f6583035d60a5d681d1f05bb52acef432fb47f132bcfb1b53d518f6"
+metafile = true
+
+[[files]]
+file = "mods/rebornstorage.pw.toml"
+hash = "36de4a21d87d8e0a21848a4af5eea79740ab1adfb882060c92ba01fbf1883ffe"
+metafile = true
+
+[[files]]
+file = "mods/refined-cooking.pw.toml"
+hash = "20eedaceb6e1def05c4bec4c669212896674ab94b26b6510a6848f273a037e27"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-addons.pw.toml"
+hash = "76c979281f6f7b7ad2ad42f362184b2d52beb73e2a17bfe4a0eedcb1a684a098"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-fluxified.pw.toml"
+hash = "5c12bf45353e438a12965675826b3ce87296329c06e8ee2e1e543609bd8acafb"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "7c0f5c7e3bbb3607a6d6382409274a95acdf050192dd355a0bab2b457abc3868"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "72f912e9893c002b994da409e5114078180139bfea729785859b1887ba5de3fe"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "248562f7717f02d954ea1b73c03033a666db6f5c9156f331cb0287869626d6da"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "c3dcc27103f65bf73dee2898706f1c3a13983cbeb63d14f7caed26630d72bbde"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "3ff8c8b3282ec0c0a4ce16853acf5b7dd23297d4b557b280668b459739c709d0"
+metafile = true
+
+[[files]]
+file = "mods/sebastrnlib.pw.toml"
+hash = "8bd06b0803e7a21fbe6c287828128665ee753661cd7253f8653df3fd4654804a"
+metafile = true
+
+[[files]]
+file = "mods/shutup-experimental-settings.pw.toml"
+hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "555c2ed7500d7deb9f0dbfbc6a597bfa76ae2a22ccdbe7ab3632cde4278169b4"
+metafile = true
+
+[[files]]
+file = "mods/textrues-rubidium-options.pw.toml"
+hash = "6486e612caf3ae99e2b77dc26a79a873b51774c09f37f274ee9c6f52bccce92d"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "cc1f850044950f528a8cced0a92275a8b5d526dcb005f20385f4ad4213dc7c85"
+metafile = true
+
+[[files]]
+file = "mods/toast-control.pw.toml"
+hash = "8ff48d18f2fbe8df674dcd79aabcece27808667c270401b06ac10c97d7552990"
+metafile = true
+
+[[files]]
+file = "mods/unlit-campfire.pw.toml"
+hash = "fe1e389b756d406e05b9c911ca0f9d276d332539312ce1ee075abbf9908f1fcd"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "de92543e67785a10dba40d50fc9deebb1990d19965e0b73b9cd63be55260e62d"
+metafile = true
+
+[[files]]
+file = "mods/wooden-bucket.pw.toml"
+hash = "0bfaaedef7df19dd28fb69325ad41bea9563b902a9311c4b639b3fd6a165c03a"
+metafile = true
+
+[[files]]
+file = "mods/zombie-friends.pw.toml"
+hash = "1c69c08f5202dc699b1b5ef5ac8700717726675fb529b1101557f1c84318b24a"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "5b7e3db1b2482ba09ca31e2b57daf2e7f1af59a68088c1a96c97fb9e1ac9a9d4"

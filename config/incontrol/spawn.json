@@ -1,0 +1,30 @@
+[
+    {
+        "mob": "minecraft:slime",
+        "result": "deny"
+    },
+    {
+        "mob": "minecraft:rabbit",
+        "result": "deny"
+    },
+    {
+        "mob": "minecraft:bat",
+        "result": "deny"
+    },
+    {
+        "mob": "minecraft:skeleton",
+        "result": "deny"
+    },
+    {
+        "mob": "minecraft:spider",
+        "result": "deny"
+    },
+    {
+        "mob": "minecraft:witch",
+        "result": "deny"
+    },
+    {
+        "mob": "minecraft:creeper",
+        "result": "deny"
+    }
+]

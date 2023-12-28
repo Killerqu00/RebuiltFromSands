@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:block/cube",
+    "textures": {
+      "particle": "minecraft:block/iron_block",
+      "down": "custommachinery:sand_drill_bottom",
+      "up": "custommachinery:sand_drill_side",
+      "north": "custommachinery:sand_drill_panel",
+      "east": "custommachinery:sand_drill_side",
+      "south": "custommachinery:sand_drill_side",
+      "west": "custommachinery:sand_drill_side"
+    }
+}
