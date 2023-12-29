@@ -1,0 +1,17 @@
+{
+	id: "e321fed0-39a0-4ee0-8ce6-8b2a64896417"
+	type: "player"
+	player_name: "Killerqu00"
+	ranks: {
+		e321fed0-39a0-4ee0-8ce6-8b2a64896417: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Killerqu00"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5984"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
