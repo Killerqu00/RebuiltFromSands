@@ -1,5 +1,23 @@
 ServerEvents.recipes(event => {
     event.shapeless(
+        Item.of('woodenbucket:wooden_bucket', '{Fluid:{Amount:1000,FluidName:"minecraft:water"}}'),
+        [
+            Item.of('woodenbucket:wooden_bucket'),
+            'minecraft:hanging_roots',
+            'minecraft:hanging_roots',
+            'minecraft:hanging_roots'
+        ]
+    )
+    event.shapeless(
+        'minecraft:dirt',
+        [
+            Item.of('woodenbucket:wooden_bucket', '{Fluid:{Amount:1000,FluidName:"minecraft:water"}}'),
+            'minecraft:bone_meal',
+            '#minecraft:sand',
+            'kubejs:pebble'
+        ]
+    )
+    event.shapeless(
         Item.of('minecraft:cobblestone'),
         [
             'kubejs:pebble',
@@ -19,16 +37,6 @@ ServerEvents.recipes(event => {
             'kubejs:pebble',
             'kubejs:pebble',
             'kubejs:pebble'
-        ]
-    )
-    event.shapeless(
-        Item.of('minecraft:potion', '{Potion:"minecraft:water"}'),
-        [
-            'minecraft:glass_bottle',
-            'minecraft:hanging_roots',
-            'minecraft:hanging_roots',
-            'minecraft:hanging_roots',
-            'minecraft:hanging_roots'
         ]
     )
     event.shaped(
