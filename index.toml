@@ -117,10 +117,6 @@ file = "config/engineersdecor-common.toml"
 hash = "b6dc6c4d205efd757b004c5d6e98a75121423aa5d8ed3b1480c19960c5ffd987"
 
 [[files]]
-file = "config/esm-config.toml"
-hash = "ad42b38d5f62e4624c23097ed2f60afbf3203dfb6feb10ccef050fb958062d28"
-
-[[files]]
 file = "config/extendedcrafting-client.toml"
 hash = "1e4729a8081c03850dd1caeab945ec4174d1fdf656e0ea7fd2095fb67f1bd1e7"
 
@@ -626,7 +622,7 @@ hash = "af2ac592be957be4dc9b001e6c2de5190f2e39292a8803993b3e8b2104733ba5"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/mekanism.js"
-hash = "227510380ffdb6c575260d687388cc5ac6f341c8103ff976f23d8b982d2ac021"
+hash = "69e3ab212c2f7091c77daf2c2d24106cdedabcb0bbbc95173c3bed6f7b5a53df"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/scrap.js"
@@ -968,11 +964,6 @@ hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
 metafile = true
 
 [[files]]
-file = "mods/nightmareesm.pw.toml"
-hash = "617e7cfd8edc5ef1c11417e725361574c3e02f54029137656bb9615b5ad299c4"
-metafile = true
-
-[[files]]
 file = "mods/no-more-inifinite-water.pw.toml"
 hash = "d8278016c28dbcba20d28436cd827c89643f00a06a2b952f5ae114dad8368196"
 metafile = true
@@ -1110,3 +1101,167 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "5b7e3db1b2482ba09ca31e2b57daf2e7f1af59a68088c1a96c97fb9e1ac9a9d4"
+
+[[files]]
+file = "saves/testworld/DIM-1/data/capabilities.dat"
+hash = "42f4d30b87a713844f8223a6aa311d0d8460cd1fc75e09d2ce598e03ffa98808"
+
+[[files]]
+file = "saves/testworld/DIM-1/data/raids.dat"
+hash = "a018903aa253004139d7c89b6ed35c20dbb7f2443fb6c55df531cb14fe8e5007"
+
+[[files]]
+file = "saves/testworld/DIM1/data/capabilities.dat"
+hash = "42f4d30b87a713844f8223a6aa311d0d8460cd1fc75e09d2ce598e03ffa98808"
+
+[[files]]
+file = "saves/testworld/DIM1/data/raids_end.dat"
+hash = "a018903aa253004139d7c89b6ed35c20dbb7f2443fb6c55df531cb14fe8e5007"
+
+[[files]]
+file = "saves/testworld/advancements/e321fed0-39a0-4ee0-8ce6-8b2a64896417.json"
+hash = "05223c06f1666f8083639bf32f5b1fe4fede1a73bbadf062904372640984238a"
+
+[[files]]
+file = "saves/testworld/data/ImmersivePetroleum-SaveData.dat"
+hash = "e94b7c87eab0c0d27a6a28105077fe8f729f1702863c5e23f8812a0c9e246d97"
+
+[[files]]
+file = "saves/testworld/data/InControlData.dat"
+hash = "ccce27e9d74a29af3db120e3c2384a3a4e2eff91c6ede7e389590b0ebf8e12d1"
+
+[[files]]
+file = "saves/testworld/data/TitaniumReward.dat"
+hash = "f979658020c415635d8b44960155461cc4a30d10349a2daa0eff0249baa69b87"
+
+[[files]]
+file = "saves/testworld/data/capabilities.dat"
+hash = "42f4d30b87a713844f8223a6aa311d0d8460cd1fc75e09d2ce598e03ffa98808"
+
+[[files]]
+file = "saves/testworld/data/mfix_strongholds.dat"
+hash = "2fe30bcdf83b29af287530eea9cf72ba7bb34d90f875ec7affd6cada10180550"
+
+[[files]]
+file = "saves/testworld/data/raids.dat"
+hash = "a018903aa253004139d7c89b6ed35c20dbb7f2443fb6c55df531cb14fe8e5007"
+
+[[files]]
+file = "saves/testworld/entities/r.-1.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/testworld/entities/r.-1.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/testworld/entities/r.0.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/testworld/entities/r.0.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/testworld/ftbquests/e321fed0-39a0-4ee0-8ce6-8b2a64896417.snbt"
+hash = "f5d415f08d0ce1a3dc073f772cabbe7a026015af028f3102f886e34a1ed37bcd"
+
+[[files]]
+file = "saves/testworld/ftbteams/ftbteams.snbt"
+hash = "b8e23d05e2725ddbc17dfcc6d43b03bd8d5b57fc3da21692bc0fcbcdfc218f3b"
+
+[[files]]
+file = "saves/testworld/ftbteams/player/e321fed0-39a0-4ee0-8ce6-8b2a64896417.snbt"
+hash = "a1593fd1a2ff2b4a5abec69bf161c14415e9b0d4dc07b3bcc72bfd4edb3e95e0"
+
+[[files]]
+file = "saves/testworld/icon.png"
+hash = "cf3fd3765135e9d0bd112d22d6b3f0f2ac9be828e20314d57550e5d4e12e8a13"
+
+[[files]]
+file = "saves/testworld/kubejs_persistent_data.nbt"
+hash = "0c5f40fb642781709ce4bd9b2443628b345a2abc34cff20dea6564ca014875f9"
+
+[[files]]
+file = "saves/testworld/level.dat"
+hash = "6913173f7828cc0fd70a2f957e78f9a03b65caa1c03ffc282e3728288c9b3f4b"
+
+[[files]]
+file = "saves/testworld/level.dat_old"
+hash = "67627caf542b427b3c90925bcd47bd994331a4ada051c3e74d3e6e07ad539418"
+
+[[files]]
+file = "saves/testworld/region/r.-1.-1.mca"
+hash = "19d91d8423b89f7c430773f6e26e07eea9ebe84693f1361dc5545c23b444d00d"
+
+[[files]]
+file = "saves/testworld/region/r.-1.0.mca"
+hash = "9dc1714de64d1853d7b0d7dac14c0338747412973a7d08875ed16711d808f74d"
+
+[[files]]
+file = "saves/testworld/region/r.0.-1.mca"
+hash = "fcda7ae829a131101f32c00c2fa32fe2d92d66c17bacdbff98399372028a438a"
+
+[[files]]
+file = "saves/testworld/region/r.0.0.mca"
+hash = "e99187efd748ec71ac0e133ba3a6fd392a3f56f5c35caec7cda340a71b52da69"
+
+[[files]]
+file = "saves/testworld/serverconfig/bucketlib-server.toml"
+hash = "a122adfe34b31bcbee34edf54568f13ac9d8923f629a1e29132d27a8207de6b6"
+
+[[files]]
+file = "saves/testworld/serverconfig/ceramicshears-server.toml"
+hash = "f6698620604d030a5ca99cc833926c069b7779d19be6f9b1147443293cefb7d9"
+
+[[files]]
+file = "saves/testworld/serverconfig/engineersdecor-server.toml"
+hash = "db5c0ad804c6e2055c0a1f0e9557912bea98cb904249f251c4a0ecb61c732770"
+
+[[files]]
+file = "saves/testworld/serverconfig/forge-server.toml"
+hash = "a866adde6d1eba7d20a228ecf10378fa7cfdb6eda3c738428b6ebac916b887b4"
+
+[[files]]
+file = "saves/testworld/serverconfig/immersiveengineering-server.toml"
+hash = "e4c7ec7d31c2c03c2794f111810433cd36484532a4082971d35d7829f518b050"
+
+[[files]]
+file = "saves/testworld/serverconfig/immersivepetroleum-server.toml"
+hash = "51eb048f3f9cbe5de869c2688dc7d9c11e151188a52130dadb4fe27236fd8406"
+
+[[files]]
+file = "saves/testworld/serverconfig/immersiveposts-server.toml"
+hash = "814cc770da8198a63556f02fa7581ea2a771a8e2b962ac3b1c8e2c4f216b237a"
+
+[[files]]
+file = "saves/testworld/serverconfig/jei-server.toml"
+hash = "6ecd614e209640db093512337a46cc1df2d6be5b1585d024b62742e76585ea5c"
+
+[[files]]
+file = "saves/testworld/serverconfig/nutritionalbalance-server.toml"
+hash = "aebad9a86548e619ae9704286ed394b70a7c591483d5dd546ba2215fb2ef37ca"
+
+[[files]]
+file = "saves/testworld/serverconfig/refinedcooking-server.toml"
+hash = "e7f662a8ef59b1e99edfadca4bc1dc0814b1e86aa402285c3b1889c7bf396770"
+
+[[files]]
+file = "saves/testworld/serverconfig/refinedstorage-server.toml"
+hash = "37ec3cf23b3fbf7ef9a98bbcd5649c3a9fabe6c90a829a1ecb392015d3937259"
+
+[[files]]
+file = "saves/testworld/serverconfig/refinedstorageaddons-server.toml"
+hash = "aaf55b1fd5a83cf3c248da9a59b4a41e8e5a62ff285d28d66cb9ec3f0af76503"
+
+[[files]]
+file = "saves/testworld/serverconfig/sebastrnlib-server.toml"
+hash = "b627b2d7eba5ae181d64f9b782a23605270fcdd65e441ce4fdcdb19e3c66f2de"
+
+[[files]]
+file = "saves/testworld/serverconfig/unlitcampfire-server.toml"
+hash = "c01c649dc33b1aaf463479a2ab8adc5df8b406a14cadeb5a474c6a017b88efae"
+
+[[files]]
+file = "saves/testworld/serverconfig/woodenbucket-server.toml"
+hash = "8402d417bb652f5ab2e7e3ebd3e4a9675e200fca5d83c2d78036717a8f87fbf4"
