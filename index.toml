@@ -714,11 +714,6 @@ hash = "437210c6bd27a3804bb260c1035e02f3dd77912e96f0352aa5a61c4db2aab691"
 metafile = true
 
 [[files]]
-file = "mods/ceramic-shears.pw.toml"
-hash = "7e51648f22d970bd8374d4fd0810dcd42a1de6271c36f465dc1690996050fa8a"
-metafile = true
-
-[[files]]
 file = "mods/chemlib.pw.toml"
 hash = "ee2a961afd934a474fcadededbb15564d244a4d9a1d8a902b9b2c78889177da8"
 metafile = true
@@ -1091,6 +1086,11 @@ metafile = true
 [[files]]
 file = "mods/wooden-bucket.pw.toml"
 hash = "0bfaaedef7df19dd28fb69325ad41bea9563b902a9311c4b639b3fd6a165c03a"
+metafile = true
+
+[[files]]
+file = "mods/wooden-shears.pw.toml"
+hash = "8eaeb1093dd089b21942d6113eafc5f54a5454e7df9bddc452a6ddb4f40df574"
 metafile = true
 
 [[files]]
