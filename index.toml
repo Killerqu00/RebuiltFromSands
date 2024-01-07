@@ -709,11 +709,6 @@ hash = "99192cbb2aa5019f9064cfbe02c069a74b12b060f40a927c1654b2a7680ed4c1"
 metafile = true
 
 [[files]]
-file = "mods/bucketlib.pw.toml"
-hash = "437210c6bd27a3804bb260c1035e02f3dd77912e96f0352aa5a61c4db2aab691"
-metafile = true
-
-[[files]]
 file = "mods/chemlib.pw.toml"
 hash = "ee2a961afd934a474fcadededbb15564d244a4d9a1d8a902b9b2c78889177da8"
 metafile = true
@@ -1081,11 +1076,6 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "de92543e67785a10dba40d50fc9deebb1990d19965e0b73b9cd63be55260e62d"
-metafile = true
-
-[[files]]
-file = "mods/wooden-bucket.pw.toml"
-hash = "0bfaaedef7df19dd28fb69325ad41bea9563b902a9311c4b639b3fd6a165c03a"
 metafile = true
 
 [[files]]
