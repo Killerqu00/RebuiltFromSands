@@ -1108,7 +1108,7 @@ hash = "42f4d30b87a713844f8223a6aa311d0d8460cd1fc75e09d2ce598e03ffa98808"
 
 [[files]]
 file = "saves/testworld/DIM-1/data/raids.dat"
-hash = "a018903aa253004139d7c89b6ed35c20dbb7f2443fb6c55df531cb14fe8e5007"
+hash = "248b81fd985d4ec75cd8b2fea0231a63a79747880a9296705c902a5d3a783eaf"
 
 [[files]]
 file = "saves/testworld/DIM1/data/capabilities.dat"
@@ -1116,11 +1116,11 @@ hash = "42f4d30b87a713844f8223a6aa311d0d8460cd1fc75e09d2ce598e03ffa98808"
 
 [[files]]
 file = "saves/testworld/DIM1/data/raids_end.dat"
-hash = "a018903aa253004139d7c89b6ed35c20dbb7f2443fb6c55df531cb14fe8e5007"
+hash = "248b81fd985d4ec75cd8b2fea0231a63a79747880a9296705c902a5d3a783eaf"
 
 [[files]]
 file = "saves/testworld/advancements/e321fed0-39a0-4ee0-8ce6-8b2a64896417.json"
-hash = "05223c06f1666f8083639bf32f5b1fe4fede1a73bbadf062904372640984238a"
+hash = "c87ff26ea3f935f0601f9dcb9daf4936362221cc3e469574d2ced757c988a49f"
 
 [[files]]
 file = "saves/testworld/data/ImmersivePetroleum-SaveData.dat"
@@ -1144,7 +1144,103 @@ hash = "2fe30bcdf83b29af287530eea9cf72ba7bb34d90f875ec7affd6cada10180550"
 
 [[files]]
 file = "saves/testworld/data/raids.dat"
-hash = "a018903aa253004139d7c89b6ed35c20dbb7f2443fb6c55df531cb14fe8e5007"
+hash = "248b81fd985d4ec75cd8b2fea0231a63a79747880a9296705c902a5d3a783eaf"
+
+[[files]]
+file = "saves/testworld/dimensions/ad_astra/earth_orbit/data/capabilities.dat"
+hash = "42f4d30b87a713844f8223a6aa311d0d8460cd1fc75e09d2ce598e03ffa98808"
+
+[[files]]
+file = "saves/testworld/dimensions/ad_astra/earth_orbit/data/raids.dat"
+hash = "b46c9a657b9c3b9be5c26d8147aa1b7fc68c939f6ef8689b42eab25f2c4b803e"
+
+[[files]]
+file = "saves/testworld/dimensions/ad_astra/glacio/data/capabilities.dat"
+hash = "42f4d30b87a713844f8223a6aa311d0d8460cd1fc75e09d2ce598e03ffa98808"
+
+[[files]]
+file = "saves/testworld/dimensions/ad_astra/glacio/data/raids.dat"
+hash = "b46c9a657b9c3b9be5c26d8147aa1b7fc68c939f6ef8689b42eab25f2c4b803e"
+
+[[files]]
+file = "saves/testworld/dimensions/ad_astra/glacio_orbit/data/capabilities.dat"
+hash = "42f4d30b87a713844f8223a6aa311d0d8460cd1fc75e09d2ce598e03ffa98808"
+
+[[files]]
+file = "saves/testworld/dimensions/ad_astra/glacio_orbit/data/raids.dat"
+hash = "b46c9a657b9c3b9be5c26d8147aa1b7fc68c939f6ef8689b42eab25f2c4b803e"
+
+[[files]]
+file = "saves/testworld/dimensions/ad_astra/mars/data/capabilities.dat"
+hash = "42f4d30b87a713844f8223a6aa311d0d8460cd1fc75e09d2ce598e03ffa98808"
+
+[[files]]
+file = "saves/testworld/dimensions/ad_astra/mars/data/raids.dat"
+hash = "b46c9a657b9c3b9be5c26d8147aa1b7fc68c939f6ef8689b42eab25f2c4b803e"
+
+[[files]]
+file = "saves/testworld/dimensions/ad_astra/mars_orbit/data/capabilities.dat"
+hash = "42f4d30b87a713844f8223a6aa311d0d8460cd1fc75e09d2ce598e03ffa98808"
+
+[[files]]
+file = "saves/testworld/dimensions/ad_astra/mars_orbit/data/raids.dat"
+hash = "b46c9a657b9c3b9be5c26d8147aa1b7fc68c939f6ef8689b42eab25f2c4b803e"
+
+[[files]]
+file = "saves/testworld/dimensions/ad_astra/mercury/data/capabilities.dat"
+hash = "42f4d30b87a713844f8223a6aa311d0d8460cd1fc75e09d2ce598e03ffa98808"
+
+[[files]]
+file = "saves/testworld/dimensions/ad_astra/mercury/data/raids.dat"
+hash = "b46c9a657b9c3b9be5c26d8147aa1b7fc68c939f6ef8689b42eab25f2c4b803e"
+
+[[files]]
+file = "saves/testworld/dimensions/ad_astra/mercury_orbit/data/capabilities.dat"
+hash = "42f4d30b87a713844f8223a6aa311d0d8460cd1fc75e09d2ce598e03ffa98808"
+
+[[files]]
+file = "saves/testworld/dimensions/ad_astra/mercury_orbit/data/raids.dat"
+hash = "b46c9a657b9c3b9be5c26d8147aa1b7fc68c939f6ef8689b42eab25f2c4b803e"
+
+[[files]]
+file = "saves/testworld/dimensions/ad_astra/moon/data/capabilities.dat"
+hash = "42f4d30b87a713844f8223a6aa311d0d8460cd1fc75e09d2ce598e03ffa98808"
+
+[[files]]
+file = "saves/testworld/dimensions/ad_astra/moon/data/raids.dat"
+hash = "b46c9a657b9c3b9be5c26d8147aa1b7fc68c939f6ef8689b42eab25f2c4b803e"
+
+[[files]]
+file = "saves/testworld/dimensions/ad_astra/moon_orbit/data/capabilities.dat"
+hash = "42f4d30b87a713844f8223a6aa311d0d8460cd1fc75e09d2ce598e03ffa98808"
+
+[[files]]
+file = "saves/testworld/dimensions/ad_astra/moon_orbit/data/raids.dat"
+hash = "b46c9a657b9c3b9be5c26d8147aa1b7fc68c939f6ef8689b42eab25f2c4b803e"
+
+[[files]]
+file = "saves/testworld/dimensions/ad_astra/venus/data/capabilities.dat"
+hash = "42f4d30b87a713844f8223a6aa311d0d8460cd1fc75e09d2ce598e03ffa98808"
+
+[[files]]
+file = "saves/testworld/dimensions/ad_astra/venus/data/raids.dat"
+hash = "b46c9a657b9c3b9be5c26d8147aa1b7fc68c939f6ef8689b42eab25f2c4b803e"
+
+[[files]]
+file = "saves/testworld/dimensions/ad_astra/venus_orbit/data/capabilities.dat"
+hash = "42f4d30b87a713844f8223a6aa311d0d8460cd1fc75e09d2ce598e03ffa98808"
+
+[[files]]
+file = "saves/testworld/dimensions/ad_astra/venus_orbit/data/raids.dat"
+hash = "b46c9a657b9c3b9be5c26d8147aa1b7fc68c939f6ef8689b42eab25f2c4b803e"
+
+[[files]]
+file = "saves/testworld/dimensions/l2library/maze/data/capabilities.dat"
+hash = "42f4d30b87a713844f8223a6aa311d0d8460cd1fc75e09d2ce598e03ffa98808"
+
+[[files]]
+file = "saves/testworld/dimensions/l2library/maze/data/raids.dat"
+hash = "b46c9a657b9c3b9be5c26d8147aa1b7fc68c939f6ef8689b42eab25f2c4b803e"
 
 [[files]]
 file = "saves/testworld/entities/r.-1.-1.mca"
@@ -1184,27 +1280,51 @@ hash = "0c5f40fb642781709ce4bd9b2443628b345a2abc34cff20dea6564ca014875f9"
 
 [[files]]
 file = "saves/testworld/level.dat"
-hash = "6913173f7828cc0fd70a2f957e78f9a03b65caa1c03ffc282e3728288c9b3f4b"
+hash = "e2af96a4950119080033b34b6b23c7b9fbcfcc41dea871c476e05561d940aadb"
 
 [[files]]
 file = "saves/testworld/level.dat_old"
-hash = "67627caf542b427b3c90925bcd47bd994331a4ada051c3e74d3e6e07ad539418"
+hash = "d59733094e86d147408dcc31d30c26d15ca03c5bb0648b565207c4562465dfd5"
+
+[[files]]
+file = "saves/testworld/playerdata/e321fed0-39a0-4ee0-8ce6-8b2a64896417.dat"
+hash = "fbf02127ca3e34c5077f8bd53c0320be354f5c08d5843ab775c0f013a9585fcb"
+
+[[files]]
+file = "saves/testworld/playerdata/e321fed0-39a0-4ee0-8ce6-8b2a64896417.dat_old"
+hash = "fbf02127ca3e34c5077f8bd53c0320be354f5c08d5843ab775c0f013a9585fcb"
+
+[[files]]
+file = "saves/testworld/poi/r.-1.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/testworld/poi/r.-1.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/testworld/poi/r.0.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/testworld/poi/r.0.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "saves/testworld/region/r.-1.-1.mca"
-hash = "19d91d8423b89f7c430773f6e26e07eea9ebe84693f1361dc5545c23b444d00d"
+hash = "fff6d67c3c6c27c8725325772f8eef694c2c6464b232792860685731740efa2c"
 
 [[files]]
 file = "saves/testworld/region/r.-1.0.mca"
-hash = "9dc1714de64d1853d7b0d7dac14c0338747412973a7d08875ed16711d808f74d"
+hash = "069b118d5eec37595243833931ed0fc1ca8c5f8110492682fb34c8dbac264854"
 
 [[files]]
 file = "saves/testworld/region/r.0.-1.mca"
-hash = "fcda7ae829a131101f32c00c2fa32fe2d92d66c17bacdbff98399372028a438a"
+hash = "273d5df3c6b415b989ba8c92f19d6c9bc534a3a3667b1e0fda6569ea0d575a95"
 
 [[files]]
 file = "saves/testworld/region/r.0.0.mca"
-hash = "e99187efd748ec71ac0e133ba3a6fd392a3f56f5c35caec7cda340a71b52da69"
+hash = "a17911d0c351745382c532544e5b850919ad579b56edcf3f0d892f314ba3de87"
 
 [[files]]
 file = "saves/testworld/serverconfig/bucketlib-server.toml"
@@ -1265,3 +1385,15 @@ hash = "c01c649dc33b1aaf463479a2ab8adc5df8b406a14cadeb5a474c6a017b88efae"
 [[files]]
 file = "saves/testworld/serverconfig/woodenbucket-server.toml"
 hash = "8402d417bb652f5ab2e7e3ebd3e4a9675e200fca5d83c2d78036717a8f87fbf4"
+
+[[files]]
+file = "saves/testworld/serverconfig/woodenshears-server.toml"
+hash = "6fdc54f84b4e07b2728adc77d27e299ce99b866e5fa4feef308f55c5f471c12f"
+
+[[files]]
+file = "saves/testworld/session.lock"
+hash = "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
+
+[[files]]
+file = "saves/testworld/stats/e321fed0-39a0-4ee0-8ce6-8b2a64896417.json"
+hash = "8187488f9742dddd7cf6f5eda3d26dbbf25215274ea265eed9000e1f9399fcf8"
