@@ -11,12 +11,6 @@
     },
     "done": true
   },
-  "ceramicshears:recipes/misc/ceramic_shears_part": {
-    "criteria": {
-      "has_clay": "2023-12-29 11:19:54 +0100"
-    },
-    "done": true
-  },
   "immersivepetroleum:recipes/building_blocks/cut_copper_stairs_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2023-12-29 11:19:36 +0100"
@@ -281,12 +275,6 @@
     },
     "done": true
   },
-  "ceramicshears:recipes/tools/ceramic_shears": {
-    "criteria": {
-      "has_clay": "2023-12-29 11:19:54 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2023-12-29 11:26:50 +0100"
@@ -374,12 +362,6 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/armor_steel_head": {
     "criteria": {
       "has_steel_plate": "2023-12-29 11:26:42 +0100"
-    },
-    "done": true
-  },
-  "ceramicshears:recipes/misc/clay_shears_part": {
-    "criteria": {
-      "has_clay": "2023-12-29 11:19:54 +0100"
     },
     "done": true
   },
