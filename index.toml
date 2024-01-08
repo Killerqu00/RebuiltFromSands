@@ -330,7 +330,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "8f8523e155306221f4e11a1c359553479247e5034b452e8ef3153b4d5e5f57e4"
+hash = "fa9f779d961be6e3115a353dac39dc3a801c58952479b2b579bcd5b855ff0bd5"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -402,7 +402,7 @@ hash = "57fe2333964dd11ea7e801fe2da128bb0438019f0cfb701f0cd7f1245abce6c1"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "ec149216326390ced2dc9e010bc752e62e2558beb6a1bfc2a9a0661b2250d5f8"
+hash = "61c8c2a33e1ae89f7cf91b129c43e7074cb912ee0d44485484d8fc62db6d8633"
 
 [[files]]
 file = "config/patchouli-client.toml"
