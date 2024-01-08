@@ -28,18 +28,18 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["16F1B02104D34F7F"]
+			dependencies: ["65273E55DA60A8AA"]
 			id: "65236DCA7F5B6778"
 			tasks: [{
 				id: "4017CAEB04602F9A"
 				item: "minecraft:composter"
 				type: "item"
 			}]
-			x: 0.0d
-			y: -1.5d
+			x: -1.5d
+			y: -3.0d
 		}
 		{
-			dependencies: ["65236DCA7F5B6778"]
+			dependencies: ["16F1B02104D34F7F"]
 			id: "1DB5E28FBC182BC2"
 			tasks: [{
 				id: "682748AC4EA630B3"
@@ -47,7 +47,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -3.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["1DB5E28FBC182BC2"]
@@ -64,7 +64,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -4.5d
+			y: -3.0d
 		}
 		{
 			dependencies: ["2CA85CFA01117BAF"]
@@ -75,7 +75,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -6.0d
+			y: -4.5d
 		}
 		{
 			dependencies: ["2CA85CFA01117BAF"]
@@ -86,7 +86,7 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: -4.5d
+			y: -3.0d
 		}
 		{
 			dependencies: ["20383CD4F90B6631"]
@@ -97,7 +97,7 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: -6.0d
+			y: -4.5d
 		}
 		{
 			dependencies: [
@@ -111,7 +111,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -7.5d
+			y: -6.0d
 		}
 		{
 			dependencies: ["7F32576B9400A202"]
@@ -121,8 +121,8 @@
 				item: "botanypots:terracotta_botany_pot"
 				type: "item"
 			}]
-			x: 1.5d
-			y: -7.5d
+			x: 3.0d
+			y: -6.0d
 		}
 		{
 			dependencies: ["20383CD4F90B6631"]
@@ -133,10 +133,13 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: -4.5d
+			y: -3.0d
 		}
 		{
-			dependencies: ["4FD012D912A48286"]
+			dependencies: [
+				"4FD012D912A48286"
+				"58607573FD3FB576"
+			]
 			id: "27EAA21F597E158A"
 			tasks: [{
 				id: "3CE10DBA08CB760F"
@@ -144,7 +147,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -9.0d
+			y: -7.5d
 		}
 		{
 			dependencies: ["7CD549A08C29B278"]
@@ -155,7 +158,7 @@
 				type: "item"
 			}]
 			x: 4.5d
-			y: -4.5d
+			y: -3.0d
 		}
 		{
 			dependencies: ["656671923FD3E86C"]
@@ -166,7 +169,7 @@
 				type: "item"
 			}]
 			x: 4.5d
-			y: -6.0d
+			y: -4.5d
 		}
 		{
 			dependencies: ["656671923FD3E86C"]
@@ -177,7 +180,7 @@
 				type: "item"
 			}]
 			x: 6.0d
-			y: -6.0d
+			y: -4.5d
 		}
 		{
 			dependencies: ["656671923FD3E86C"]
@@ -188,7 +191,7 @@
 				type: "item"
 			}]
 			x: 6.0d
-			y: -4.5d
+			y: -3.0d
 		}
 		{
 			dependencies: ["656671923FD3E86C"]
@@ -199,7 +202,7 @@
 				type: "item"
 			}]
 			x: 6.0d
-			y: -3.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["656671923FD3E86C"]
@@ -210,7 +213,7 @@
 				type: "item"
 			}]
 			x: 4.5d
-			y: -3.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["656671923FD3E86C"]
@@ -221,7 +224,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: -3.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["656671923FD3E86C"]
@@ -232,7 +235,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: -6.0d
+			y: -4.5d
 		}
 		{
 			dependencies: ["4FD012D912A48286"]
@@ -243,7 +246,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: -7.5d
+			y: -6.0d
 		}
 		{
 			dependencies: ["1DBBC6A052EEEA4E"]
@@ -254,7 +257,7 @@
 				type: "item"
 			}]
 			x: -3.0d
-			y: -7.5d
+			y: -6.0d
 		}
 		{
 			dependencies: ["65273E55DA60A8AA"]
@@ -265,7 +268,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: -6.0d
+			y: -4.5d
 		}
 		{
 			dependencies: ["27EAA21F597E158A"]
@@ -276,7 +279,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: -9.0d
+			y: -7.5d
 		}
 		{
 			dependencies: ["3C7B17612AB6B9F9"]
@@ -287,7 +290,7 @@
 				type: "item"
 			}]
 			x: -3.0d
-			y: -9.0d
+			y: -7.5d
 		}
 		{
 			dependencies: ["05015E1EE188B4DB"]
@@ -304,7 +307,7 @@
 				type: "item"
 			}]
 			x: -4.5d
-			y: -9.0d
+			y: -7.5d
 		}
 		{
 			dependencies: ["3C701FD3EA484857"]
@@ -315,7 +318,7 @@
 				type: "item"
 			}]
 			x: -3.0d
-			y: -6.0d
+			y: -4.5d
 		}
 		{
 			dependencies: ["4E715BCF48BA0F16"]
@@ -326,7 +329,7 @@
 				type: "item"
 			}]
 			x: -6.0d
-			y: -9.0d
+			y: -7.5d
 		}
 		{
 			dependencies: ["5ED4DEC0304A3A3D"]
@@ -337,7 +340,7 @@
 				type: "item"
 			}]
 			x: -4.5d
-			y: -7.5d
+			y: -6.0d
 		}
 		{
 			dependencies: ["27EAA21F597E158A"]
@@ -354,7 +357,7 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: -9.0d
+			y: -7.5d
 		}
 		{
 			dependencies: ["1DB5E28FBC182BC2"]
@@ -425,7 +428,18 @@
 			]
 			title: "Flint Tools"
 			x: -1.5d
-			y: -3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4FD012D912A48286"]
+			id: "58607573FD3FB576"
+			tasks: [{
+				id: "1FB58FF7E9E5967C"
+				item: "kubejs:scrap"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -6.0d
 		}
 	]
 	title: "Act I: Staying Alive"
