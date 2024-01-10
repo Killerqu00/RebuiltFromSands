@@ -614,7 +614,7 @@ hash = "a96a8858060733336d02aa417135ae558fb8bb138a2ffb23d23e7bb271c808bb"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/kubejs.js"
-hash = "f0654ce8368ca4b54e5633026aa57656f8a8d1dcc7c50e9a4788c3489172e158"
+hash = "d239798839f201ab4b26c232ef3d83f1e9bad353efde85686ff9240e121d09fe"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/loottables.js"

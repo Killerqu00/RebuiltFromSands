@@ -1,12 +1,12 @@
 name = "RebuiltFromSands"
 author = "Killerqu00"
-version = "alpha3"
+version = "alpha4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9b1c17f2a511d842cce3957880cbf9d04bad77ef8e29ca37a09c1778a5848f3e"
+hash = "5e0cff0ba229f165fff2f57e45681b351ba940f9131e682c7ea6befc5e9a86cb"
 
 [versions]
 forge = "43.3.0"

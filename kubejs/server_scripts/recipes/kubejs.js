@@ -33,8 +33,8 @@ ServerEvents.recipes(event => {
             W: '#minecraft:logs_that_burn'
         }
     )
-    event.campfireCooking('minecraft:clay', 'minecraft:mud')
-    event.campfireCooking('minecraft:brick', '#forge:clay')
+    event.campfireCooking('minecraft:clay', 'minecraft:mud').cookingtime(300)
+    event.campfireCooking('minecraft:brick', '#forge:clay').cookingtime(600)
     event.remove({output: 'minecraft:furnace'})
     event.remove({output: 'minecraft:campfire'})
     event.shaped(
