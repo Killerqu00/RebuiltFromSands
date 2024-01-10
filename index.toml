@@ -1069,11 +1069,6 @@ hash = "8ff48d18f2fbe8df674dcd79aabcece27808667c270401b06ac10c97d7552990"
 metafile = true
 
 [[files]]
-file = "mods/unlit-campfire.pw.toml"
-hash = "fe1e389b756d406e05b9c911ca0f9d276d332539312ce1ee075abbf9908f1fcd"
-metafile = true
-
-[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "de92543e67785a10dba40d50fc9deebb1990d19965e0b73b9cd63be55260e62d"
 metafile = true
