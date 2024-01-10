@@ -121,9 +121,7 @@ ServerEvents.recipes(event => {
     event.shapeless(
         'minecraft:dirt',
         [
-            Item.of("minecraft:potion").strongNBT({
-                Potion: "minecraft:water",
-              }),
+            Item.of('minecraft:potion', '{Potion:"minecraft:water"}').strongNBT(),
             '#minecraft:sand',
             'minecraft:hanging_roots',
             'minecraft:bone_meal'
