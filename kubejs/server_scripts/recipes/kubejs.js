@@ -121,10 +121,12 @@ ServerEvents.recipes(event => {
     event.shapeless(
         'minecraft:dirt',
         [
-            Item.of('minecraft:potion', '{Potion:"minecraft:water"}'),
+            Item.of("minecraft:potion").withNBT({
+                Potion: "minecraft:water",
+              }),
             '#minecraft:sand',
             'minecraft:hanging_roots',
             'minecraft:bone_meal'
         ]
-    )
+    ).replaceIngredient("minecraft:potion", "minecraft:glass_bottle")
 })
