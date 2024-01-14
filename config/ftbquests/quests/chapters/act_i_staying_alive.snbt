@@ -29,6 +29,7 @@
 		}
 		{
 			dependencies: ["65273E55DA60A8AA"]
+			description: ["Composter can be used in order to get more Bonemeal. Use Leaves or Saplings with a Composter."]
 			id: "65236DCA7F5B6778"
 			tasks: [{
 				id: "4017CAEB04602F9A"
@@ -40,6 +41,7 @@
 		}
 		{
 			dependencies: ["16F1B02104D34F7F"]
+			description: ["Use Bonemeal on Rooted Dirt to grow Hanging Roots under the dirt."]
 			id: "1DB5E28FBC182BC2"
 			tasks: [{
 				id: "682748AC4EA630B3"
@@ -51,6 +53,7 @@
 		}
 		{
 			dependencies: ["1DB5E28FBC182BC2"]
+			description: ["Meshes can be used to sieve Sand in order to get resources such as Scrap."]
 			id: "2CA85CFA01117BAF"
 			tasks: [{
 				id: "3582186B66369F54"
@@ -68,6 +71,7 @@
 		}
 		{
 			dependencies: ["2CA85CFA01117BAF"]
+			description: ["Crafting Table can be crafted using some Planks and Flint Tools."]
 			id: "65273E55DA60A8AA"
 			tasks: [{
 				id: "4C70ABDBCC245A90"
@@ -79,6 +83,10 @@
 		}
 		{
 			dependencies: ["2CA85CFA01117BAF"]
+			description: [
+				"You can get more Dirt using one of the Water Bottles you have in your Crate."
+				"If you need to refill your Bottle, you will have to spend some Roots."
+			]
 			id: "20383CD4F90B6631"
 			tasks: [{
 				id: "1C3505075678BDFB"
@@ -90,6 +98,7 @@
 		}
 		{
 			dependencies: ["20383CD4F90B6631"]
+			description: ["Use a Water Bottle on a Dirt Block to turn it to Clay."]
 			id: "7F32576B9400A202"
 			tasks: [{
 				id: "29E1E686ADA48ABC"
@@ -104,6 +113,7 @@
 				"7F32576B9400A202"
 				"65273E55DA60A8AA"
 			]
+			description: ["Use a Campfire to get Bricks from Clay Balls."]
 			id: "4FD012D912A48286"
 			tasks: [{
 				id: "3CC59364FC957F83"
@@ -126,6 +136,11 @@
 		}
 		{
 			dependencies: ["20383CD4F90B6631"]
+			description: [
+				"Rich Soil speeds up crop growth."
+				""
+				"Place the Compost near Water, other Compost/Soil and under sunlight to speed up the conversion process."
+			]
 			id: "7CD549A08C29B278"
 			tasks: [{
 				id: "5A213734C9A13AF9"
@@ -140,6 +155,7 @@
 				"4FD012D912A48286"
 				"58607573FD3FB576"
 			]
+			description: ["Iron is the first available metal. You can get 1 Iron Ingot out of 1 piece of Scrap."]
 			id: "27EAA21F597E158A"
 			tasks: [{
 				id: "3CE10DBA08CB760F"
@@ -151,6 +167,11 @@
 		}
 		{
 			dependencies: ["7CD549A08C29B278"]
+			description: [
+				"Grass Blocks spread on nearby Dirt Blocks."
+				""
+				"Use Bonemeal on Grass Blocks to create Grass. Grass can drop some crop seeds on break."
+			]
 			id: "656671923FD3E86C"
 			tasks: [{
 				id: "6BF3E6DA4493101E"
@@ -361,6 +382,10 @@
 		}
 		{
 			dependencies: ["1DB5E28FBC182BC2"]
+			description: [
+				"Flint Tools are the first tools you can make."
+				"Flint can be made out of pebbles that you can get from sieving Sand."
+			]
 			icon: {
 				Count: 1b
 				id: "farmersdelight:flint_knife"
@@ -432,6 +457,11 @@
 		}
 		{
 			dependencies: ["4FD012D912A48286"]
+			description: [
+				"Most ores on this world are depleted. Instead, you can extract Scrap from Sand and reuse it."
+				""
+				"Smelting Scrap creates Iron Dust, which can be smelted again for Iron Ingots."
+			]
 			id: "58607573FD3FB576"
 			tasks: [{
 				id: "1FB58FF7E9E5967C"
@@ -440,6 +470,24 @@
 			}]
 			x: 1.5d
 			y: -6.0d
+		}
+		{
+			dependencies: ["16F1B02104D34F7F"]
+			description: ["Wooden Shears are needed to collect Roots."]
+			id: "2414AD16031A641B"
+			tasks: [{
+				id: "1A9489E31A4CA7B0"
+				item: {
+					Count: 1b
+					id: "woodenshears:wooden_shears"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
 		}
 	]
 	title: "Act I: Staying Alive"

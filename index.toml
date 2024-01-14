@@ -242,7 +242,7 @@ hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/act_i_staying_alive.snbt"
-hash = "0f33018049a19563c410bf5f3b7289ab72667550145e43abcbd523c2b4a0f9a4"
+hash = "eaf6fc72ad806d1c9e696cc979637746f7fc0248ec2f04ffc871e2af8a5266cc"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/act_ii_out_of_scraps.snbt"
@@ -250,7 +250,7 @@ hash = "9aed95dc4e4b67576e16144040ac20b33390ab3ef22b46e50713a8463c8d605c"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
-hash = "c95b3044291d847d066f894ad9bda82f0c0dc64773c4061bcc2968c35bc7f045"
+hash = "2c811d92e0410fefe0afae7791ddc7777c505435184ad7d932fb737d5672124e"
 
 [[files]]
 file = "config/functionalstorage/functionalstorage-client.toml"

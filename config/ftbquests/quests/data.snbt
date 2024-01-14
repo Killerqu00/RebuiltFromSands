@@ -7,6 +7,18 @@
 	detection_delay: 20
 	disable_gui: false
 	drop_loot_crates: false
+	emergency_items: [
+		{ Count: 4b, id: "minecraft:oak_sapling" }
+		{ Count: 4b, id: "minecraft:rooted_dirt" }
+		{ Count: 64b, id: "minecraft:bone_meal" }
+		{
+			Count: 1b
+			id: "minecraft:potion"
+			tag: {
+				Potion: "minecraft:water"
+			}
+		}
+	]
 	emergency_items_cooldown: 300
 	grid_scale: 1.5d
 	icon: "minecraft:sand"
