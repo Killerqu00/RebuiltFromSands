@@ -9,6 +9,11 @@
 	quest_links: [ ]
 	quests: [
 		{
+			description: [
+				"Iron Mesh is a tier 2 mesh that allows you to sieve Sand and obtain Broken Circuits."
+				""
+				"Broken Circuits can be used to get Redstone or Copper."
+			]
 			id: "6B88772AD804360E"
 			tasks: [{
 				id: "328A925D77E1572C"
@@ -26,6 +31,11 @@
 		}
 		{
 			dependencies: ["14BAABCD6A46BDC9"]
+			description: [
+				"Blast Furnace can turn Iron Ingots into Steel Ingots, producing Slag as a side-product."
+				""
+				"To build it, make a 3x3x3 structure out of Blast Bricks."
+			]
 			id: "00D60EA3B77B9FF4"
 			tasks: [{
 				count: 27L
@@ -38,6 +48,11 @@
 		}
 		{
 			dependencies: ["14BAABCD6A46BDC9"]
+			description: [
+				"Coke Oven uses Coal and turns it into Coke Coal, creating Creosote in the process."
+				""
+				"To build it, make a 3x3x3 structure out of Coke Bricks."
+			]
 			id: "26FD500D184024DB"
 			tasks: [{
 				count: 27L
@@ -50,6 +65,7 @@
 		}
 		{
 			dependencies: ["26FD500D184024DB"]
+			description: ["This version of Crafting Table can store 18 items inside."]
 			id: "7818606CFCF9BE8C"
 			tasks: [{
 				id: "74EF90586F8141C6"
@@ -61,6 +77,7 @@
 		}
 		{
 			dependencies: ["7818606CFCF9BE8C"]
+			description: ["This version of Crafting Table can be used from your inventory anywhere."]
 			id: "053BED97B9E5D4D3"
 			tasks: [{
 				id: "72396543BDC9FC86"
@@ -72,6 +89,7 @@
 		}
 		{
 			dependencies: ["6B88772AD804360E"]
+			description: ["Engineer Hammer can form structures by clicking one of the blocks of this structure."]
 			id: "14BAABCD6A46BDC9"
 			tasks: [{
 				id: "19116D14E3615DC0"
@@ -89,6 +107,11 @@
 		}
 		{
 			dependencies: ["14BAABCD6A46BDC9"]
+			description: [
+				"Kiln can smelt metals into alloys."
+				""
+				"To build a Kiln, make a 2x2x2 structure out of Kiln Bricks."
+			]
 			id: "75E616B1B6837443"
 			tasks: [{
 				count: 8L
@@ -112,6 +135,7 @@
 		}
 		{
 			dependencies: ["00D60EA3B77B9FF4"]
+			description: ["Steel is a very useful alloy, used for most machines and components."]
 			id: "6809577DAC5C2C6C"
 			tasks: [{
 				id: "270CF9B67A87EC41"
@@ -123,6 +147,7 @@
 		}
 		{
 			dependencies: ["6809577DAC5C2C6C"]
+			description: ["Metal Press shapes different metals and alloys into components such as Plates and Wires."]
 			icon: "immersiveengineering:metal_press"
 			id: "0D70F99174EA0FE8"
 			tasks: [
@@ -330,6 +355,11 @@
 		}
 		{
 			dependencies: ["0D70F99174EA0FE8"]
+			description: [
+				"Industrial Squeezer can extract fluids out of items."
+				""
+				"Use it to extract Oil from Oil Sand. Oil Sand can be found below Sand layer."
+			]
 			icon: "immersiveengineering:squeezer"
 			id: "112A7BAA474DC5F7"
 			tasks: [
@@ -380,6 +410,11 @@
 		}
 		{
 			dependencies: ["0D70F99174EA0FE8"]
+			description: [
+				"Crusher grinds items into dust or other items."
+				""
+				"You can use Crusher to extract different metal types out of Scrap."
+			]
 			icon: "immersiveengineering:crusher"
 			id: "2E4C56EB0D83BF9C"
 			tasks: [
@@ -441,6 +476,7 @@
 		}
 		{
 			dependencies: ["6809577DAC5C2C6C"]
+			description: ["Use Molds in the Metal Press to form various components out of metals."]
 			icon: "immersiveengineering:mold_plate"
 			id: "684152DFF28A28A0"
 			tasks: [
@@ -712,6 +748,7 @@
 		}
 		{
 			dependencies: ["0D70F99174EA0FE8"]
+			description: ["Industrial Fermenter extracts Ethanol out of organic items."]
 			icon: "immersiveengineering:fermenter"
 			id: "33095AF2D336ADF5"
 			tasks: [
