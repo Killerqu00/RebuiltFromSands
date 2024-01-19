@@ -68,4 +68,18 @@ ServerEvents.recipes(event => {
             '#forge:wires/electrum'
         ]
     )
+    event.remove({output:'mekanism:basic_fluid_tank'})
+    event.shaped(
+        'mekanism:basic_fluid_tank',
+        [
+            'SSS',
+            'RGR',
+            'SSS'
+        ],
+        {
+            S:'#forge:ingots/steel',
+            R:'#forge:rods/steel',
+            G:'#forge:glass/colorless'
+        }
+    )
 })
