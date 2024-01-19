@@ -43,14 +43,14 @@ ServerEvents.recipes(event => {
         'mekanism:metallurgic_infuser',
         [
             'ORO',
-            'FBF',
+            'FCF',
             'OOO'
         ],
         {
             O:'#forge:ingots/osmium',
             R:'#forge:rods/gold',
             F:'minecraft:furnace',
-            B:'minecraft:bucket'
+            C:'mekanism:steel_casing'
         }
     )
     event.remove({output:'mekanism:advanced_control_circuit'})
@@ -81,5 +81,20 @@ ServerEvents.recipes(event => {
             R:'#forge:rods/steel',
             G:'#forge:glass/colorless'
         }
+    )
+    event.replaceInput(
+        {output:'mekanism:advanced_fluid_tank'},
+        '#forge:ingots/iron',
+        '#forge:ingots/constantan'
+    )
+    event.replaceInput(
+        {output:'mekanism:elite_fluid_tank'},
+        '#forge:ingots/iron',
+        '#forge:ingots/refined_obsidian'
+    )
+    event.replaceInput(
+        {output:'mekanism:ultimate_fluid_tank'},
+        '#forge:ingots/iron',
+        '#forge:ingots/netherite'
     )
 })
