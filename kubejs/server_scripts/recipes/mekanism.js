@@ -83,18 +83,18 @@ ServerEvents.recipes(event => {
         }
     )
     event.replaceInput(
-        {output:'mekanism:advanced_fluid_tank'},
-        '#forge:ingots/iron',
+        {id:"mekanism:fluid_tank/advanced"},
+        'minecraft:iron_ingot',
         '#forge:ingots/constantan'
     )
     event.replaceInput(
-        {output:'mekanism:elite_fluid_tank'},
-        '#forge:ingots/iron',
+        {id:"mekanism:fluid_tank/elite"},
+        'minecraft:iron_ingot',
         '#forge:ingots/refined_obsidian'
     )
     event.replaceInput(
-        {output:'mekanism:ultimate_fluid_tank'},
-        '#forge:ingots/iron',
+        {id:"mekanism:fluid_tank/ultimate"},
+        'minecraft:iron_ingot',
         '#forge:ingots/netherite'
     )
 })
