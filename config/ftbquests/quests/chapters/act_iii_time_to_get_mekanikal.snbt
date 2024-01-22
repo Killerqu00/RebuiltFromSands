@@ -1,0 +1,80 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "act_iii_time_to_get_mekanikal"
+	group: ""
+	icon: "mekanism:basic_control_circuit"
+	id: "382397CC2772FDED"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Steel Casings are main items needed to create compact Machines. This is a very significant breakthrough that will allow you to develop machinery way faster."]
+			id: "0FAFBC162E59BBD3"
+			tasks: [{
+				id: "17054252A3757804"
+				item: "mekanism:steel_casing"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0FAFBC162E59BBD3"]
+			description: ["Metallurgic Infuser can infuse materials with, for example, redstone. This is an important machine to produce alloys."]
+			id: "1D0B9F0C9E6649C8"
+			tasks: [{
+				id: "25A3149925E3ED86"
+				item: "mekanism:metallurgic_infuser"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1D0B9F0C9E6649C8"]
+			id: "07DDC6C8CA7203A8"
+			tasks: [{
+				id: "21241A4817EC9F15"
+				item: "mekanism:alloy_infused"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["07DDC6C8CA7203A8"]
+			id: "2124CA6E96EC13ED"
+			tasks: [{
+				id: "0B0F00F4212B2142"
+				item: "mekanism:advanced_control_circuit"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["07DDC6C8CA7203A8"]
+			id: "2449988CB72552E1"
+			tasks: [{
+				id: "583631C6500117B5"
+				item: "mekanism:energy_tablet"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2449988CB72552E1"]
+			id: "48B9F8C72D05D79C"
+			tasks: [{
+				id: "1B1E7EC01C2B83A8"
+				item: "mekanism:configurator"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+	]
+	title: "Act III: Get Mekanikal"
+}

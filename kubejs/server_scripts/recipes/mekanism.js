@@ -69,6 +69,9 @@ ServerEvents.recipes(event => {
         ]
     )
     event.remove({output:'mekanism:basic_fluid_tank'})
+    event.remove({output:'mekanism:advanced_fluid_tank'})
+    event.remove({output:'mekanism:elite_fluid_tank'})
+    event.remove({output:'mekanism:ultimate_fluid_tank'})
     event.shaped(
         'mekanism:basic_fluid_tank',
         [
@@ -82,19 +85,57 @@ ServerEvents.recipes(event => {
             G:'#forge:glass/colorless'
         }
     )
-    event.replaceInput(
-        {id:"mekanism:fluid_tank/advanced"},
-        'minecraft:iron_ingot',
-        '#forge:ingots/constantan'
+    event.shaped(
+        'mekanism:advanced_fluid_tank',
+        [
+            'CAC',
+            'ATA',
+            'CAC'
+        ],
+        {
+            C:'#forge:plates/constantan',
+            A:'#forge:alloys/advanced',
+            T:'mekanism:basic_fluid_tank'
+        }
     )
-    event.replaceInput(
-        {id:"mekanism:fluid_tank/elite"},
-        'minecraft:iron_ingot',
-        '#forge:ingots/refined_obsidian'
+    event.shaped(
+        'mekanism:elite_fluid_tank',
+        [
+            'OAO',
+            'ATA',
+            'OAO'
+        ],
+        {
+            O:'#forge:ingots/refined_obsidian',
+            A:'#forge:alloys/elite',
+            T:'mekanism:advanced_fluid_tank'
+        }
     )
-    event.replaceInput(
-        {id:"mekanism:fluid_tank/ultimate"},
-        'minecraft:iron_ingot',
-        '#forge:ingots/netherite'
+    event.shaped(
+        'mekanism:ultimate_fluid_tank',
+        [
+            'NAN',
+            'ATA',
+            'NAN'
+        ],
+        {
+            N:'#forge:ingots/netherite',
+            A:'#mekanism:alloys/atomic',
+            T:'mekanism:elite_fluid_tank'
+        }
+    )
+    event.remove({output:'mekanism:configurator'})
+    event.shaped(
+        'mekanism:configurator',
+        [
+            '  E',
+            ' T ',
+            'R  '
+        ],
+        {
+            E:'#forge:rods/electrum',
+            T:'mekanism:energy_tablet',
+            R:'#forge:rods/treated_wood'
+        }
     )
 })

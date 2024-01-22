@@ -1,6 +1,6 @@
 {
     "name": "Sand Drill",
-    "tooltips": ["Extracts sand from the soil.", "Place on sand and provide power to activate."],
+    "tooltips": ["Extracts sand from the soil.", "Provide power to activate."],
     "appearance": {
         "hardness": 1.5,
         "tool_type": "minecraft:mineable/pickaxe",

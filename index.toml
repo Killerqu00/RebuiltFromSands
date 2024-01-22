@@ -249,6 +249,10 @@ file = "config/ftbquests/quests/chapters/act_ii_out_of_scraps.snbt"
 hash = "10ab089983c3cd0685bd9e5665a4668a8d1657e895e78a06a4092505fc8191b6"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/act_iii_time_to_get_mekanikal.snbt"
+hash = "9efd0fd43f3e8eb5e36c81437e2e60a2b3b66e7c36413020f042814bafbf499d"
+
+[[files]]
 file = "config/ftbquests/quests/data.snbt"
 hash = "2c811d92e0410fefe0afae7791ddc7777c505435184ad7d932fb737d5672124e"
 
@@ -582,7 +586,7 @@ hash = "ef8e80216dd0f667f3cc1c7f8cf172b5305cbe13a9bee74679da784259a6c9c3"
 
 [[files]]
 file = "kubejs/data/custommachines/machines/sand_drill.json"
-hash = "d71e00382ea982233cbea38f92381a4a3636b2e28cb4fd7cccdecfdb555f82c8"
+hash = "2cb3a86e6a260ab3de0e89226d65b8fde8b9b5b514cac9334a6ed520af1f80ec"
 
 [[files]]
 file = "kubejs/server_scripts/item/remove.js"
@@ -622,7 +626,7 @@ hash = "af2ac592be957be4dc9b001e6c2de5190f2e39292a8803993b3e8b2104733ba5"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/mekanism.js"
-hash = "b138b32b1e6337c22d6aa74317765758238946bc9da62c51608dd0838a15d5cf"
+hash = "09f375d9200e25444ee2223a0f37934878636cdf38b3ac30567764b79dcafafd"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/scrap.js"
@@ -633,7 +637,11 @@ file = "kubejs/server_scripts/recipes/tools.js"
 hash = "b640bfabe836e89825e275fe3f11e14d5417715471971e969f72bf27e69cffcd"
 
 [[files]]
-file = "kubejs/server_scripts/tags/tags.js"
+file = "kubejs/server_scripts/tags/fluid.js"
+hash = "1a6ae2ff4ab21d9d42743ac385f975e3dd9c863fff889e22e2ec7335e7fc4015"
+
+[[files]]
+file = "kubejs/server_scripts/tags/item.js"
 hash = "7666df2a0a934ae9c43987802123349666dfe3ac2c02a58d53e3bbdce2725467"
 
 [[files]]
