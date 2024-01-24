@@ -185,6 +185,7 @@
 		}
 		{
 			dependencies: ["6809577DAC5C2C6C"]
+			description: ["Windmill is a basic power generating option."]
 			icon: "immersiveengineering:windmill"
 			id: "3642323CB7829346"
 			tasks: [
@@ -238,6 +239,11 @@
 		}
 		{
 			dependencies: ["2D4BF0F1F9D193B1"]
+			description: [
+				"Arc Furnace can smelt items at much higher temperatures. "
+				""
+				"This means that you can finally create glass out of sand."
+			]
 			icon: "immersiveengineering:arc_furnace"
 			id: "01511E80FEE3E7A8"
 			tasks: [
@@ -311,6 +317,7 @@
 		}
 		{
 			dependencies: ["0B12F3C6919CB2BB"]
+			description: ["Automated Engineering Workbench can craft recipes from Engineering Workbench automatically."]
 			icon: "immersiveengineering:auto_workbench"
 			id: "43AD3D40C16D5F44"
 			tasks: [
@@ -454,6 +461,7 @@
 		}
 		{
 			dependencies: ["112A7BAA474DC5F7"]
+			description: ["Crude Oil can be extracted from Oil Sand. Oil Sand can be found below the normal layer of Sand."]
 			id: "5909450AB1C8DD77"
 			tasks: [{
 				id: "4344A72BF41F350D"
@@ -552,6 +560,7 @@
 		}
 		{
 			dependencies: ["5909450AB1C8DD77"]
+			description: ["Distillation Tower converts Oil into its subproducts."]
 			icon: "immersivepetroleum:distillation_tower"
 			id: "19AB1F81F5DBB1EA"
 			tasks: [
@@ -597,6 +606,7 @@
 		}
 		{
 			dependencies: ["5909450AB1C8DD77"]
+			description: ["Refinery processes two different types of fluid into a new one."]
 			icon: "immersiveengineering:refinery"
 			id: "4517F98589AB2B99"
 			tasks: [
@@ -642,6 +652,7 @@
 		}
 		{
 			dependencies: ["19AB1F81F5DBB1EA"]
+			description: ["Automatic Lubricator can increase speed of some machines using liquid Lubricant."]
 			id: "774CAE0B9200EF23"
 			tasks: [{
 				id: "71056802F14B5844"
@@ -653,6 +664,7 @@
 		}
 		{
 			dependencies: ["19AB1F81F5DBB1EA"]
+			description: ["High-Pressure Refinery Unit can crack certain fluids and separate solid subproducts in the process."]
 			icon: "immersivepetroleum:hydrotreater"
 			id: "5BEC83C1BFA80BD0"
 			tasks: [
@@ -703,6 +715,7 @@
 		}
 		{
 			dependencies: ["33095AF2D336ADF5"]
+			description: ["Diesel Generator is an upgraded version of Portable Generator that creates lots of energy, but at the cost of increased fuel consumption."]
 			icon: "immersiveengineering:diesel_generator"
 			id: "70E0673735A78DE9"
 			tasks: [
@@ -794,6 +807,7 @@
 		}
 		{
 			dependencies: ["33095AF2D336ADF5"]
+			description: ["Portable Generator can create energy out of combustable fluid fuels such as, for example, Gasoline."]
 			id: "66930D59328F5A88"
 			tasks: [{
 				id: "5740012958DD6F7F"
@@ -802,6 +816,42 @@
 			}]
 			x: 3.0d
 			y: -7.5d
+		}
+		{
+			dependencies: ["3642323CB7829346"]
+			description: ["Put Windmill Sails on Windmills to improve their power generations."]
+			id: "3F37E3E032E63244"
+			tasks: [{
+				id: "1DC1993F3AA2199C"
+				item: "immersiveengineering:windmill_sail"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["034712CF04947043"]
+			id: "295BB9DD67CC4707"
+			tasks: [{
+				id: "2AF4FA58E09C558F"
+				item: "immersiveengineering:wirecoil_electrum"
+				type: "item"
+			}]
+			title: "MV Power Transmission"
+			x: -3.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["295BB9DD67CC4707"]
+			id: "51BCB1E8249B10F1"
+			tasks: [{
+				id: "1A72B27A128E556A"
+				item: "immersiveengineering:wirecoil_steel"
+				type: "item"
+			}]
+			title: "HV Power Transmission"
+			x: -4.5d
+			y: -4.5d
 		}
 	]
 	title: "Act II: Out Of Scraps"
