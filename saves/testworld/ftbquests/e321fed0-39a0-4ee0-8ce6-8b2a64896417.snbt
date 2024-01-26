@@ -5,7 +5,9 @@
 	lock: false
 	rewards_blocked: false
 	task_progress: { }
-	started: { }
+	started: {
+		0000000000000001: 1705502747675L
+	}
 	completed: { }
 	claimed_rewards: { }
 	player_data: {
