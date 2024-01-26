@@ -75,6 +75,55 @@
 			x: 3.0d
 			y: -3.0d
 		}
+		{
+			dependencies: ["0FAFBC162E59BBD3"]
+			description: ["Enrichment Chamber is a very useful machine capable to process raw materials into different dust-like materials."]
+			id: "3617E23451195E31"
+			tasks: [{
+				id: "20D21E4A8D200428"
+				item: "mekanism:enrichment_chamber"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0FAFBC162E59BBD3"]
+			description: ["Electrolytic Separator can separate chemical components via electrolysis, consuming energy in the process."]
+			id: "7DD094C24DD223CA"
+			tasks: [{
+				id: "1A4B48E43FD6599D"
+				item: "mekanism:electrolytic_separator"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3617E23451195E31"]
+			id: "68E5A68397129CEF"
+			tasks: [{
+				id: "33065A672B2534C4"
+				item: "minecraft:diamond"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"2124CA6E96EC13ED"
+				"68E5A68397129CEF"
+			]
+			id: "21865981ED8CF02C"
+			tasks: [{
+				id: "13AE03D67ADE1028"
+				item: "mekanism:alloy_reinforced"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -6.0d
+		}
 	]
 	title: "Act III: Get Mekanikal"
 }

@@ -138,4 +138,9 @@ ServerEvents.recipes(event => {
             R:'#forge:rods/treated_wood'
         }
     )
+    event.custom({
+        type: 'mekanism:enriching',
+        input: '8x immersiveengineering:dust_hop_graphite',
+        output: 'mekanism:dust_diamond'
+    })
 })
