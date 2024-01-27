@@ -153,7 +153,7 @@ ServerEvents.recipes(event => {
     )
     event.custom({
         type: 'mekanism:enriching',
-        input: Ingredient.of('kubejs:carbon_crystal').toJson(),
-        output: Ingredient.of('mekanism:dust_diamond').toJson()
+        input: Item.of('kubejs:carbon_crystal').toJson(),
+        output: Item.of('mekanism:dust_diamond').toJson()
     })
 })
