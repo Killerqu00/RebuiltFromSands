@@ -537,6 +537,10 @@ file = "kubejs/assets/kubejs/textures/item/broken_circuit.png"
 hash = "8535a1c15bde71dd1e9e3f03c29450d96e29c2668b62b0f232044d7efb5ac80a"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/carbon_crystal.png"
+hash = "4269ba2f01eb854eab9f0a49a9a0c91644ebf0fa78090aab10d2161d8f79595f"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/flint_axe.png"
 hash = "d45c5210a39f2561950582f26fd1bc63483b45fd5eae7bfaa24814751cc2e7e9"
 
@@ -626,7 +630,7 @@ hash = "af2ac592be957be4dc9b001e6c2de5190f2e39292a8803993b3e8b2104733ba5"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/mekanism.js"
-hash = "04746a58d35c11c630f5caea118fa566ec085cbb890739933902c9a04e3abcdc"
+hash = "e0d6ed15657c65e260adb818dbcc3383960fc9041d5cf449989a6e768bd1bd26"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/scrap.js"
@@ -650,7 +654,7 @@ hash = "3cea1b50b2e7ee50fa4c18781ceae0a30e996899ea6cea93c8f73bb410c11c54"
 
 [[files]]
 file = "kubejs/startup_scripts/item_registry.js"
-hash = "10ef40d5f932f2f22a41b3e10770bfbec7183653dda1d2443bc1455699d4198a"
+hash = "fba74c1eed22f98b2876707a38b3fd60b76a08ad98bcd037f4698772e8df9247"
 
 [[files]]
 file = "kubejs/startup_scripts/tool_tiers.js"

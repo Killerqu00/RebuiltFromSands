@@ -5,6 +5,7 @@ StartupEvents.registry('item', event => {
     event.create('pebble')
     event.create('scrap')
     event.create('broken_circuit')
+    event.create('carbon_crystal')
 
     event.create('flint_axe', 'axe').tier('flint')
     event.create('flint_pickaxe', 'pickaxe').tier('flint')

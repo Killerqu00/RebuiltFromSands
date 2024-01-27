@@ -138,9 +138,22 @@ ServerEvents.recipes(event => {
             R:'#forge:rods/treated_wood'
         }
     )
+    event.shapeless(
+        'kubejs:carbon_crystal',
+        [
+            'immersiveengineering:dust_hop_graphite',
+            'immersiveengineering:dust_hop_graphite',
+            'immersiveengineering:dust_hop_graphite',
+            'immersiveengineering:dust_hop_graphite',
+            'immersiveengineering:dust_hop_graphite',
+            'immersiveengineering:dust_hop_graphite',
+            'immersiveengineering:dust_hop_graphite',
+            'immersiveengineering:dust_hop_graphite'
+        ]
+    )
     event.custom({
         type: 'mekanism:enriching',
-        input: Ingredient.of('immersiveengineering:dust_hop_graphite', 8).toJson(),
+        input: Ingredient.of('kubejs:carbon_crystal').toJson(),
         output: Ingredient.of('mekanism:dust_diamond').toJson()
     })
 })
