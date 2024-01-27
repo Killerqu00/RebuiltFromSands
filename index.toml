@@ -901,11 +901,6 @@ hash = "135c8f7285f1ef5d34066174d1eacbbc668096cef1dacecb3a54e8894bbf2830"
 metafile = true
 
 [[files]]
-file = "mods/kubejs-mekanism.pw.toml"
-hash = "802e915f360b667a4d79d9c333115d88bc83186fe6501ab819c5024836c5e32d"
-metafile = true
-
-[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "e34c1c9566341c0d9be8cf07dda339ca1086bdd7fe2fa3f66ad281695510b78a"
 metafile = true
