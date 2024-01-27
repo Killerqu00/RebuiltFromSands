@@ -140,7 +140,7 @@ ServerEvents.recipes(event => {
     )
     event.custom({
         type: 'mekanism:enriching',
-        input: Ingredient.of('8x immersiveengineering:dust_hop_graphite').toJson(),
+        input: Ingredient.of('immersiveengineering:dust_hop_graphite', 8).toJson(),
         output: Ingredient.of('mekanism:dust_diamond').toJson()
     })
 })

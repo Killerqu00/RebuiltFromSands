@@ -626,7 +626,7 @@ hash = "af2ac592be957be4dc9b001e6c2de5190f2e39292a8803993b3e8b2104733ba5"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/mekanism.js"
-hash = "27bd532e70268e25934d0c730b8d67281b612554f59857a143b96e5800ce309a"
+hash = "04746a58d35c11c630f5caea118fa566ec085cbb890739933902c9a04e3abcdc"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/scrap.js"
