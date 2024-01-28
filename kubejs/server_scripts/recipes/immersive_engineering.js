@@ -316,4 +316,15 @@ ServerEvents.recipes(event => {
             P: '#forge:plates/steel'
         }
     )
+    event.custom(
+        {
+            type: 'immersiveengineering:squeezer',
+            fluid: {
+                fluid: 'minecraft:lava',
+                amount: 50
+            },
+            input: 'minecraft:magma_block',
+            energy: 64000
+        }
+    )
 })

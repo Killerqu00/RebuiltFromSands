@@ -156,4 +156,33 @@ ServerEvents.recipes(event => {
         input: {ingredient:{item:'kubejs:carbon_crystal'}},
         output: {item:'mekanism:dust_diamond'}
     })
+    event.custom({
+        type: 'mekanism:crushing',
+        input: {ingredient:{tag:'#minecraft:sand'}},
+        output: {item:'minecraft:quartz'}
+    })
+    event.remove({output:'mekanism:elite_control_circuit'})
+    event.shapeless(
+        'mekanism:elite_control_circuit',
+        [
+            'mekanism:advanced_control_circuit',
+            'mekanism:alloy_reinforced',
+            'mekanism:alloy_reinforced',
+            'mekanism:alloy_reinforced',
+            'mekanism:alloy_reinforced',
+            'minecraft:quartz',
+            'minecraft:quartz',
+            'minecraft:quartz',
+            'minecraft:quartz'
+        ]
+    )
+    event.shapeless(
+        'minecraft:blaze_powder',
+        [
+            'minecraft:gunpowder',
+            '#forge:dusts/iron',
+            'minecraft:flint',
+            'kubejs:scrap'
+        ]
+    )
 })

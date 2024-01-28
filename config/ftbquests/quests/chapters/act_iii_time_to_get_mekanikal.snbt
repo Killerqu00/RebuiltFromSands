@@ -124,6 +124,40 @@
 			x: 0.0d
 			y: -6.0d
 		}
+		{
+			dependencies: ["21865981ED8CF02C"]
+			id: "618F1993EA4AC968"
+			tasks: [{
+				id: "53FAA24D32B7307B"
+				item: "mekanism:elite_control_circuit"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["0FAFBC162E59BBD3"]
+			description: ["Crusher crushes things. Simple enough, right?"]
+			id: "3441BE9F91EA5F04"
+			tasks: [{
+				id: "25F381325C2206A4"
+				item: "mekanism:crusher"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3441BE9F91EA5F04"]
+			id: "1620613B63584FF0"
+			tasks: [{
+				id: "6E08374F1940CC7C"
+				item: "minecraft:quartz"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
 	]
 	title: "Act III: Get Mekanikal"
 }
