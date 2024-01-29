@@ -906,6 +906,11 @@ hash = "28dd3e22a7af0ee500b179658497bdd3744c359c62730cbfa81a12ed953d132e"
 metafile = true
 
 [[files]]
+file = "mods/lockdown.pw.toml"
+hash = "71c813e17ebcc28f1d7da6cfd0967d834ceb2c6295f1b8b9e436fbe638d08f24"
+metafile = true
+
+[[files]]
 file = "mods/lootjs.pw.toml"
 hash = "8e76039d3e0c46b46765ca3bdcfda44e944a27890c69ece525a05b89a70eea19"
 metafile = true
