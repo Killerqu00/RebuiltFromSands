@@ -321,7 +321,7 @@ ServerEvents.recipes(event => {
             type: 'immersiveengineering:squeezer',
             fluid: {
                 fluid: 'minecraft:lava',
-                amount: 50
+                amount: 100
             },
             input: 'minecraft:magma_block',
             energy: 64000

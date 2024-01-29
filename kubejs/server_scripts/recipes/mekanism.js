@@ -158,7 +158,7 @@ ServerEvents.recipes(event => {
     })
     event.custom({
         type: 'mekanism:crushing',
-        input: {ingredient:{tag:'#minecraft:sand'}},
+        input: {ingredient:{tag:'minecraft:sand'}},
         output: {item:'minecraft:quartz'}
     })
     event.remove({output:'mekanism:elite_control_circuit'})
