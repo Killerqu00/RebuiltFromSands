@@ -597,6 +597,10 @@ file = "kubejs/server_scripts/recipes/ad_astra.js"
 hash = "72671ea9d3ebcef46036e7c729f6dd63ca993488c840bc6b9e661c3b949abe13"
 
 [[files]]
+file = "kubejs/server_scripts/recipes/compostables.js"
+hash = "6342fceca53123d30f3742289bbf93585db70f8a5b8f7d60a854a404b1d2f369"
+
+[[files]]
 file = "kubejs/server_scripts/recipes/cooking_for_blockheads.js"
 hash = "21f817066ea1bfe1a8637dfbd021aab409bf60e20b8ffe6833931abf9a6613ab"
 
@@ -1084,3 +1088,151 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "5b7e3db1b2482ba09ca31e2b57daf2e7f1af59a68088c1a96c97fb9e1ac9a9d4"
+
+[[files]]
+file = "template/DIM-1/data/capabilities.dat"
+hash = "42f4d30b87a713844f8223a6aa311d0d8460cd1fc75e09d2ce598e03ffa98808"
+
+[[files]]
+file = "template/DIM-1/data/raids.dat"
+hash = "f01cf540444387d3490ab45ff326f83ff77f3ba3e923683c006598c766a0f578"
+
+[[files]]
+file = "template/DIM1/data/capabilities.dat"
+hash = "42f4d30b87a713844f8223a6aa311d0d8460cd1fc75e09d2ce598e03ffa98808"
+
+[[files]]
+file = "template/DIM1/data/raids_end.dat"
+hash = "f01cf540444387d3490ab45ff326f83ff77f3ba3e923683c006598c766a0f578"
+
+[[files]]
+file = "template/data/ImmersivePetroleum-SaveData.dat"
+hash = "e94b7c87eab0c0d27a6a28105077fe8f729f1702863c5e23f8812a0c9e246d97"
+
+[[files]]
+file = "template/data/InControlData.dat"
+hash = "d292a6f812581b665b88d9a816fe166df7841082df284742724510608c6b68af"
+
+[[files]]
+file = "template/data/TitaniumReward.dat"
+hash = "f979658020c415635d8b44960155461cc4a30d10349a2daa0eff0249baa69b87"
+
+[[files]]
+file = "template/data/capabilities.dat"
+hash = "42f4d30b87a713844f8223a6aa311d0d8460cd1fc75e09d2ce598e03ffa98808"
+
+[[files]]
+file = "template/data/mfix_strongholds.dat"
+hash = "2fe30bcdf83b29af287530eea9cf72ba7bb34d90f875ec7affd6cada10180550"
+
+[[files]]
+file = "template/data/raids.dat"
+hash = "f01cf540444387d3490ab45ff326f83ff77f3ba3e923683c006598c766a0f578"
+
+[[files]]
+file = "template/entities/r.-1.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "template/entities/r.-1.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "template/entities/r.0.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "template/entities/r.0.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "template/ftbquests/e321fed0-39a0-4ee0-8ce6-8b2a64896417.snbt"
+hash = "90eba7f167e1199319e886a4aa7e81b56bb9a37ad25421afdd14a9a4e75ce646"
+
+[[files]]
+file = "template/ftbteams/ftbteams.snbt"
+hash = "18e20a20bd0c2bd1ca27b148d338e6c24dda9a6dfe3c8b7507bcce053e7bdafe"
+
+[[files]]
+file = "template/ftbteams/player/e321fed0-39a0-4ee0-8ce6-8b2a64896417.snbt"
+hash = "3dad49f7ce99231277a2153e1d4452d29c3780bda88f680053ef7b3aadf7251e"
+
+[[files]]
+file = "template/icon.png"
+hash = "c39bbd9ff255b958a38bf62f4e1589f38652b8563c8699af3c86bc9906ff130e"
+
+[[files]]
+file = "template/kubejs_persistent_data.nbt"
+hash = "0c5f40fb642781709ce4bd9b2443628b345a2abc34cff20dea6564ca014875f9"
+
+[[files]]
+file = "template/level.dat"
+hash = "67c297dfed254e0919aa5ea34434e84d66b705682d1a16c87f2e237b37e44099"
+
+[[files]]
+file = "template/level.dat_old"
+hash = "d0359008928245cecaaa8a21ccc2cb21a8f08104033913fdedbe346d210a6ed4"
+
+[[files]]
+file = "template/region/r.-1.-1.mca"
+hash = "fc85b7914096a1679dcafbee841a0548629bfde1288ed97acad6a4f156b95eeb"
+
+[[files]]
+file = "template/region/r.-1.0.mca"
+hash = "8f745b8c1687e585efe71b1e41b286876f725ad63392ec99a6e50ccc13698f3a"
+
+[[files]]
+file = "template/region/r.0.-1.mca"
+hash = "86c192e789dc5feeb1e5cd4ee0e1db5ed26cc856b8a84159783dc7b48ea46f8a"
+
+[[files]]
+file = "template/region/r.0.0.mca"
+hash = "209f10f7364527e130c4496b1110de24d60087166461046988c79b5039952719"
+
+[[files]]
+file = "template/serverconfig/engineersdecor-server.toml"
+hash = "db5c0ad804c6e2055c0a1f0e9557912bea98cb904249f251c4a0ecb61c732770"
+
+[[files]]
+file = "template/serverconfig/forge-server.toml"
+hash = "a866adde6d1eba7d20a228ecf10378fa7cfdb6eda3c738428b6ebac916b887b4"
+
+[[files]]
+file = "template/serverconfig/immersiveengineering-server.toml"
+hash = "e4c7ec7d31c2c03c2794f111810433cd36484532a4082971d35d7829f518b050"
+
+[[files]]
+file = "template/serverconfig/immersivepetroleum-server.toml"
+hash = "51eb048f3f9cbe5de869c2688dc7d9c11e151188a52130dadb4fe27236fd8406"
+
+[[files]]
+file = "template/serverconfig/immersiveposts-server.toml"
+hash = "814cc770da8198a63556f02fa7581ea2a771a8e2b962ac3b1c8e2c4f216b237a"
+
+[[files]]
+file = "template/serverconfig/jei-server.toml"
+hash = "6ecd614e209640db093512337a46cc1df2d6be5b1585d024b62742e76585ea5c"
+
+[[files]]
+file = "template/serverconfig/nutritionalbalance-server.toml"
+hash = "aebad9a86548e619ae9704286ed394b70a7c591483d5dd546ba2215fb2ef37ca"
+
+[[files]]
+file = "template/serverconfig/refinedcooking-server.toml"
+hash = "e7f662a8ef59b1e99edfadca4bc1dc0814b1e86aa402285c3b1889c7bf396770"
+
+[[files]]
+file = "template/serverconfig/refinedstorage-server.toml"
+hash = "37ec3cf23b3fbf7ef9a98bbcd5649c3a9fabe6c90a829a1ecb392015d3937259"
+
+[[files]]
+file = "template/serverconfig/refinedstorageaddons-server.toml"
+hash = "aaf55b1fd5a83cf3c248da9a59b4a41e8e5a62ff285d28d66cb9ec3f0af76503"
+
+[[files]]
+file = "template/serverconfig/sebastrnlib-server.toml"
+hash = "b627b2d7eba5ae181d64f9b782a23605270fcdd65e441ce4fdcdb19e3c66f2de"
+
+[[files]]
+file = "template/serverconfig/woodenshears-server.toml"
+hash = "6fdc54f84b4e07b2728adc77d27e299ce99b866e5fa4feef308f55c5f471c12f"
