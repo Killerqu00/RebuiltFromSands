@@ -57,14 +57,6 @@ file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
-file = "config/ad_astra.toml"
-hash = "8627621ddf90bb9747ff3ef6145a90b826146308a15839dc852d6041f7f3d472"
-
-[[files]]
-file = "config/ad_astra_giselle_addon.toml"
-hash = "c2c1571c4ca5f091c5d1c5b6cb1e4aae292c3a52895373c4ccec4fd2c197f146"
-
-[[files]]
 file = "config/alchemistry-common.toml"
 hash = "a3a71c42e2af41696048374996368f8d0f3636cbe0d6311774f9b6bdcd314f93"
 
@@ -387,6 +379,10 @@ hash = "949e77eba5f223f5d00b99d842be1162d98ca32c0f45abc594755c1850a7f130"
 [[files]]
 file = "config/leavesbegone-server.toml"
 hash = "5461ea48b86cd51ac9a218ac6a7ecc32cf4c4fb0acc70c68de4329766027ca15"
+
+[[files]]
+file = "config/lockdown.toml"
+hash = "df9d65e2d5da7af50fc5cb46a63c7f3c0774e34f7760adf9066dcb3b5ba699f9"
 
 [[files]]
 file = "config/mobsunscreen-common.toml"
