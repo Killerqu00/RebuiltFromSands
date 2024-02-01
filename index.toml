@@ -382,7 +382,7 @@ hash = "5461ea48b86cd51ac9a218ac6a7ecc32cf4c4fb0acc70c68de4329766027ca15"
 
 [[files]]
 file = "config/lockdown.toml"
-hash = "b61f3c90e730449fef464cd98e61b15564939157b1c66812d33049b156a9929d"
+hash = "df9d65e2d5da7af50fc5cb46a63c7f3c0774e34f7760adf9066dcb3b5ba699f9"
 
 [[files]]
 file = "config/mobsunscreen-common.toml"

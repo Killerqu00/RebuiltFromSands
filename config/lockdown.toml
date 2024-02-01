@@ -3,9 +3,9 @@
 	#The directory of the world template
 	template_directory = "template"
 	#Whether a template should be used instead of creating regular worlds
-	use_template = false
+	use_template = true
 	#Whether to use the world settings from the template and ignore player changes
-	use_template_world_settings = false
+	use_template_world_settings = true
 
 [world_creation_menu_settings]
 	#Toggle the game mode button
@@ -13,13 +13,13 @@
 	#Toggle the cheats button
 	disable_cheats = false
 	#Toggle the game rules button
-	disable_game_rules = false
+	disable_game_rules = true
 	#Toggle the difficulty button
-	disable_difficulty = false
+	disable_difficulty = true
 	#Toggle the data packs button
-	disable_data_packs = false
+	disable_data_packs = true
 	#Toggle the more world options button
-	disable_more_world_options = false
+	disable_more_world_options = true
 
 [main_menu_settings]
 	#Toggle the multiplayer button
