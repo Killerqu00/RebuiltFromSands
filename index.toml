@@ -598,7 +598,7 @@ hash = "72671ea9d3ebcef46036e7c729f6dd63ca993488c840bc6b9e661c3b949abe13"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/compostables.js"
-hash = "6342fceca53123d30f3742289bbf93585db70f8a5b8f7d60a854a404b1d2f369"
+hash = "da032d646e6aa2eea23245956e064680db2af368edb1f8812f59b42286b1593d"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/cooking_for_blockheads.js"
@@ -626,7 +626,7 @@ hash = "d239798839f201ab4b26c232ef3d83f1e9bad353efde85686ff9240e121d09fe"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/loottables.js"
-hash = "af2ac592be957be4dc9b001e6c2de5190f2e39292a8803993b3e8b2104733ba5"
+hash = "4c0ed0d86030cf3bca495ec4ce8f3812c8e8a2e9dac37233aeca66d5e5fe27b8"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/mekanism.js"
@@ -756,6 +756,11 @@ hash = "40387085c326f5b9feb132c33443654ada0611638655dc46a823f28a9c66cacd"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "4bf0b32175e08d57d5cc194a19bfdefe2e1151828884e015301a149d87e61cf8"
+metafile = true
+
+[[files]]
 file = "mods/engineers-decor.pw.toml"
 hash = "86078f7819e53162c8624dc356663198d98c2829b689b4ae39dc52217824a027"
 metafile = true
@@ -803,6 +808,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-teams-forge.pw.toml"
 hash = "c0405f2f156703f6c5a181c18e96dfdbad8760c04ff3be8c088853c7b14572df"
+metafile = true
+
+[[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "159f0b1858fa12899ae8974e2aae38603dd9abe4db3131042f2964d59b20a485"
 metafile = true
 
 [[files]]
@@ -1036,11 +1046,6 @@ hash = "c3dcc27103f65bf73dee2898706f1c3a13983cbeb63d14f7caed26630d72bbde"
 metafile = true
 
 [[files]]
-file = "mods/rubidium.pw.toml"
-hash = "3ff8c8b3282ec0c0a4ce16853acf5b7dd23297d4b557b280668b459739c709d0"
-metafile = true
-
-[[files]]
 file = "mods/sebastrnlib.pw.toml"
 hash = "8bd06b0803e7a21fbe6c287828128665ee753661cd7253f8653df3fd4654804a"
 metafile = true
@@ -1056,8 +1061,8 @@ hash = "555c2ed7500d7deb9f0dbfbc6a597bfa76ae2a22ccdbe7ab3632cde4278169b4"
 metafile = true
 
 [[files]]
-file = "mods/textrues-rubidium-options.pw.toml"
-hash = "6486e612caf3ae99e2b77dc26a79a873b51774c09f37f274ee9c6f52bccce92d"
+file = "mods/textrues-embeddium-options.pw.toml"
+hash = "5b41c25289361f7791a080ef812c7cab6d9f63ab57b63b0d3ec6694bb78d18dc"
 metafile = true
 
 [[files]]
