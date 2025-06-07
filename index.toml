@@ -177,6 +177,11 @@ hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "ff2c734786c306f7e415c78c90fa35bc603ff525a2d3e9babac59abfd7fe245a"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
 metafile = true
@@ -497,6 +502,11 @@ hash = "7832f19493b4fa402c59c32c44860df73bbf14c9a1c5a08adfbd90463f44fbea"
 metafile = true
 
 [[files]]
+file = "mods/starter-structure.pw.toml"
+hash = "4fdda7429ebc6f2fe5c4cbd3f685ccbb3b7f944fa54b0ad464e9bfdb3fa8103d"
+metafile = true
+
+[[files]]
 file = "mods/tconjei.pw.toml"
 hash = "9cb433a13caa2960e17d6c662f1dc735d0f0232c33198c023c3082eb92c2a18c"
 metafile = true
@@ -519,6 +529,11 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "7149b1beafef2ce275da37dd5ca2e12f5527ad979420630ecdef5bcabd4fef32"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
 
 [[files]]
