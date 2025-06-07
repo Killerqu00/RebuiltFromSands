@@ -282,6 +282,11 @@ hash = "ae3f14983e2a8ff5d133b6d665f667c9b23f2f124f63cb634503c6413da1cab8"
 metafile = true
 
 [[files]]
+file = "mods/in-control.pw.toml"
+hash = "df04eb430ff03f016c611c33db7b076755ae53d2f3acb3330bdbc91e71e5fc1d"
+metafile = true
+
+[[files]]
 file = "mods/item-stages.pw.toml"
 hash = "e7088f7c568d00cc695b8556a13976d16455ab6dba683eccf3fca67355c5d05a"
 metafile = true
@@ -514,6 +519,11 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "7149b1beafef2ce275da37dd5ca2e12f5527ad979420630ecdef5bcabd4fef32"
+metafile = true
+
+[[files]]
+file = "mods/yeetusexperimentus.pw.toml"
+hash = "7dbe376c64d52ddc3e52ca6ce6b07d8c5d76bf9ef68d58267bb9e9c6d8fb2c09"
 metafile = true
 
 [[files]]
