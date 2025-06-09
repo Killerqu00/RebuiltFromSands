@@ -65,6 +65,58 @@ file = "config/immersiveengineering-client.toml"
 hash = "9354837713ef693360fa46ae9e9df2271e24eda3f5da49a507e414dba110f733"
 
 [[files]]
+file = "config/incontrol/areas.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/breakevents.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/effects.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/events.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/experience.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/leftclicks.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/loot.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/phases.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/placeevents.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/rightclicks.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/spawn.json"
+hash = "3fa59d085bdffdf2234191dfce00739788f13f3acd265712370b2b165b7e159a"
+
+[[files]]
+file = "config/incontrol/spawner.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/summonaid.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
 file = "config/jeiintegration-client.toml"
 hash = "337d6f6e6bc6e2fef6a8d17b153172b818cd926ccf834c5a7f02ce3ce8be5d12"
 
@@ -83,6 +135,10 @@ hash = "d7b3dd26f91f1950f4dc0477aa23be08440b496a77d5d5b5c4542f30a3a0ec95"
 [[files]]
 file = "config/squatgrow-common.yaml"
 hash = "cc68b5828e94e4ecf348e5a0f1f76f4ddf4d923b7d7950f7946524d6ac2d366b"
+
+[[files]]
+file = "config/starterstructure.json5"
+hash = "03a8bdd1ba0c89e58b8a6597ace22867cec6717f53d0bc3a2c60fede74d8f7e3"
 
 [[files]]
 file = "config/tconstruct-client.toml"
@@ -208,6 +264,16 @@ hash = "b7b5d139282c441057c253e1d01d8333ed22b377a75242edac5c78bb26907ab2"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "71a33fe41bead909b3e95643351ef8015def70d3cb083916469f492f66434b45"
+metafile = true
+
+[[files]]
+file = "mods/chisel-chipped-integration.pw.toml"
+hash = "bd3e3f8744663eec4fb0f760967b0ac1071db51ba791819afb2c03e8c7a475fa"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
@@ -300,6 +366,11 @@ metafile = true
 [[files]]
 file = "mods/functional-storage.pw.toml"
 hash = "3de7e29cd28529757e0a09db7466b7d50b791ba4235de2f125a86921a5c60ea7"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "9dfeec9e729c2599a39d005da996ced9ab683e4e5cc51d5d65b554e8b726a73f"
 metafile = true
 
 [[files]]
@@ -488,6 +559,16 @@ hash = "d9e13a1c9bb74d5b456ffd7541627f5cf700a5949c3994c2a6673df7046bfb27"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled-chipped.pw.toml"
+hash = "2255c97160d769909db905cf8d95f1e4b4bfd496125e6fe12f415ff3cda5d4fd"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "3e8c59c1817babb68d49af1bd816d6d00ffbaa8343968ad324996a0d5deb9c69"
+metafile = true
+
+[[files]]
 file = "mods/recipe-machine-stages-zs-js.pw.toml"
 hash = "9b4dec0daa1b57c50e958079eb585d6f3c09dcf25a8af1f2db5d874fb80958ae"
 metafile = true
@@ -495,6 +576,11 @@ metafile = true
 [[files]]
 file = "mods/recipe-stages.pw.toml"
 hash = "5163f0269a2aec05fe845f4d97f084ddb47fd45a941cad6116e2dc9a46eb136b"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "ef0264b7d819848f72ab2f34643306187e712965a8246e1f733e1bd39d8fd681"
 metafile = true
 
 [[files]]
@@ -540,6 +626,21 @@ metafile = true
 [[files]]
 file = "mods/starter-structure.pw.toml"
 hash = "4fdda7429ebc6f2fe5c4cbd3f685ccbb3b7f944fa54b0ad464e9bfdb3fa8103d"
+metafile = true
+
+[[files]]
+file = "mods/stitch.pw.toml"
+hash = "2e696efbdcea73e5daaaaba5fe22347f2505c4587a38577fd9d005b3e6e145a2"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "4ddff1daf862f7e481a6c30c4cbb4bb32165f2c73cefc908dbf62b18f0d46a56"
 metafile = true
 
 [[files]]
