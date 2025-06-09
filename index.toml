@@ -117,6 +117,42 @@ file = "config/zombieawareness/PlayerRulesAndLists.toml"
 hash = "e766740f523b7da0d0cdc9db47f6e69c16489509c6b5e1eee63742c295f5f508"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "270552897bae5916920277edefae03b1e0858f204ac323303570aba9a2e01692"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "70093a2f06133c1d7bd95704e1abeb16111f0c28b0baa0d9debc0a4b17c9a8ef"
+
+[[files]]
+file = "kubejs/data/desert.zip"
+hash = "c3d27ee47e05cd38d1dbeba99eebfa42a84461b4ccecf127fcf86cda692a813b"
+
+[[files]]
+file = "kubejs/server_scripts/example.js"
+hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "75948439841eb3cbae2f75ee186c338b3311d30ea13f077d6ffc75f7267eabde"
 metafile = true
