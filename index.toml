@@ -141,6 +141,10 @@ file = "config/starterstructure.json5"
 hash = "03a8bdd1ba0c89e58b8a6597ace22867cec6717f53d0bc3a2c60fede74d8f7e3"
 
 [[files]]
+file = "config/starterstructure/schematics/droppod.schem"
+hash = "8654084429f197b8e6cbe735890aa7cf029cf121b87e3d040d905bba9b5ba9ed"
+
+[[files]]
 file = "config/tconstruct-client.toml"
 hash = "5577864051fd325f09b0f71cee2998f556e0aed7e80c33a9bbb61c65c75a8f87"
 
