@@ -379,6 +379,11 @@ hash = "5a9ee402a1db67f84efd6f1b5665ece795c1d2b5d477152f2d5853319c1ed590"
 metafile = true
 
 [[files]]
+file = "mods/gauges-and-switches-ported.pw.toml"
+hash = "3cd4a0825c7667abbeee4389fe7eaac126562c3809ae54eba57096f10845be74"
+metafile = true
+
+[[files]]
 file = "mods/guideme.pw.toml"
 hash = "55fe311d176ed6178393f9060141c0165ea37a1b4e87426848019dd6cb5256ba"
 metafile = true
